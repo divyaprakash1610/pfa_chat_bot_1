@@ -4,3 +4,4 @@ torch==2.8.0   # or a CPU-compatible version
 sentence-transformers==5.1.0
 pandas
 numpy
+groq
