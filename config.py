@@ -1,0 +1,2 @@
+import os
+GROQ_API_KEY = "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"

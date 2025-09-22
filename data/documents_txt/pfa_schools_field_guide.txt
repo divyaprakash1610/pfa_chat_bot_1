@@ -1,0 +1,3061 @@
+This work was funded by the Substance Abuse and Mental Health Services Administration (SAMHSA),
+US Department of Health and Human Services (HHS).
+National Child Traumatic Stress Network
+National Center for PTSD
+®
+Psychological First Aid for Schools
+Field Operations Guide
+ 
+Psychological First Aid 
+for Schools   
+Field Operations Guide
+2nd Edition
+National Child Traumatic Stress Network
+National Center for PTSD
+ 
+This work was funded by the Substance Abuse and Mental Health Services Administration (SAMHSA), US 
+Department of Health and Human Services (HHS). The views, opinions, and content are those of the authors and 
+do not necessarily reflect those of SAMHSA or HHS.
+  
+®
+National Child Traumatic Stress Network 
+Established by Congress in 2000, the National Child Traumatic Stress Network (NCTSN) brings a singular and 
+comprehensive focus to childhood trauma. NCTSN’s collaboration of frontline providers, researchers, and families 
+is committed to raising the standard of care while increasing access to services. Combining knowledge of child 
+development, expertise in the full range of child traumatic experiences, and dedication to evidence-based practices, 
+the NCTSN changes the course of children’s lives by changing the course of their care.
+National Center for PTSD 
+The VA’s National Center for PTSD is a world leader in research and education programs focusing on PTSD and 
+other psychological and medical consequences of traumatic stress. Mandated by Congress in 1989, the Center is a 
+consortium of seven academic centers of excellence providing research, education, and consultation in the field of 
+traumatic stress. 
+The views, opinions, and content are those of the authors and do not necessarily reflect those of SAMHSA or HHS. 
+Copyright © 2009 Brymer, Escudero, Jacobs, Kronenberg, Macy, Mock, Payne, Pynoos, Taylor, and Vogel. All rights 
+reserved. You are welcome to copy or redistribute this material, in print form or electronically, provided that the text 
+is not modified, the authors are cited in any use, and no fee is charged for copies of this publication. Unauthorized 
+commercial publication or exploitation of this material is strictly prohibited. This guide was adapted, with permission, 
+by the authors (Melissa Brymer, Anne Jacobs, Christopher Layne, Robert Pynoos, Josef Ruzek, Alan Steinberg, 
+Eric Vernberg, and Patricia Watson), from the National Child Traumatic Stress Network and the National Center 
+for PTSD Psychological First Aid Field Operations Guide (© 2006). Anyone seeking to adapt the NCTSN/NCPTSD 
+Psychological First Aid guides or related materials, should first contact Melissa Brymer, Ph.D., Psy.D., at mbrymer@
+mednet.ucla.edu
+Acknowledgments
+The Psychological First Aid Field Operations Guide was originally developed and revised by the National 
+Child Traumatic Stress Network and the National Center for PTSD. The principal authors of these editions (in 
+alphabetical order) include Melissa Brymer, Anne Jacobs, Christopher Layne, Robert Pynoos, Josef Ruzek, 
+Alan Steinberg, Eric Vernberg, and Patricia Watson. 
+The Psychological First Aid for Schools Field Operations Guide was adapted by a working group of the 
+National Child Traumatic Stress Network, chaired by Melissa Brymer, PhD., Psy.D. The primary contributors 
+to this adaptation (in alphabetical order) included: Melissa Brymer, Pia Escudero, Anne Jacobs, Mindy 
+Kronenberg, Robert Macy, Lou Ann Mock, Linda Payne, Robert Pynoos, Matt Taylor, and Juliet Vogel.
+Other contributors include Robert Abramovitz, Brian Allen, DeAnna Griffin, Malcolm Gordon, Robin Gurwitch, 
+Joshua Kaufman, Joy Osofsky, Gilbert Reyes, Caryll Sprague, Rick van den Pol, Patricia Watson, Cynthia 
+Whitham, and Marleen Wong.
+Carolyn Wendt and Margaret Bonanno provided editorial and graphic support throughout the development of 
+Psychological First Aid for Schools.  
+Special acknowledgment is given to Dr. Bob Seaver for the illustrations provided throughout this publication.
+For citation: Brymer M., Taylor M., Escudero P., Jacobs A., Kronenberg M., Macy R., Mock L., Payne L., 
+Pynoos R., & Vogel J. Psychological first aid for schools: Field operations guide, 2nd Edition. (2012). Los 
+Angeles: National Child Traumatic Stress Network. 
+Psychological First Aid for Schools Field Operations Guide
+1
+Table of Contents
+Introduction and Overview .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3 
+Preparing to Deliver Psychological First Aid for Schools .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . . . . . 9
+Psychological First Aid Core Actions .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+1. Contact and Engagement .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19 
+2. Safety and Comfort .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+3. Stabilization .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 35
+4. Information Gathering: Current Needs and Concerns  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . . . 41
+5. Practical Assistance .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 47
+6. Connection with Social Supports  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . . . . . . . . . . . 51 
+7. Information on Coping .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 57
+8. Linkage with Collaborative Services .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . . . . . . . . . . 71
+Appendices .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 75 
+Psychological First Aid for Schools Field Operations Guide
+3
+Introduction 
+and Overview
+The field of school safety and emergency management has evolved significantly over the past decade. Tragically, 
+acts of violence, natural disasters, and terrorist attacks have taught us many lessons. We also know that other 
+types of emergencies can impact schools, including medical emergencies, transportation accidents, sports injuries, 
+peer victimization, public health emergencies, and the sudden death of a member of the school community. We 
+now recognize the need for school emergency management plans that are up-to-date and take an “all-hazards” 
+approach with clear communication channels and procedures that effectively reunite parents and caregivers with 
+students. We have also learned that preparing school administrators, teachers, and school partnering agencies 
+before a critical event is crucial for effective response, the value of ongoing training and emergency exercises, and 
+that having intervention models that address the public health, mental health, and psychosocial needs of students 
+and staff is essential to a safe school environment and the resumption of learning.
+What Is Psychological First Aid for Schools?
+Psychological First Aid for Schools (PFA-S) is an evidence-informed intervention model to assist students, 
+families, school personnel, and school partners in the immediate aftermath of an emergency. PFA-S is 
+designed to reduce the initial distress caused by emergencies, and to foster short- and long-term adaptive 
+functioning and coping. The principles and techniques of PFA-S meet five basic standards. They are:
+1.	 Consistent with research evidence on risk and resilience following trauma 
+2.	 Respectful of and consistent with the school administration of the academic setting, school culture, and 
+the behavior (code of conduct) of students
+3.	 Applicable and practical in field settings 
+4.	 Appropriate for developmental levels across the lifespan 
+5.	 Delivered in a culturally-informed and flexible manner 
+PFA-S assumes that students and staff members may experience a broad range of early reactions (e.g., 
+physical, cognitive, psychological, behavioral, spiritual) following an emergency. Some of these reactions can 
+cause distress that interferes with adaptive coping, but support from informed, compassionate, and caring 
+professionals can help students and staff members recover from these reactions. PFA-S has the potential to  
+mitigate the development of severe mental health problems or long-term difficulties in recovery by identifying 
+individuals who may need additional services and linking them to such services as needed.
+National Child Traumatic Stress Network    National Center for PTSD 
+4
+Introduction and Overview
+Why Provide Psychological First Aid in Schools?
+1.	 Schools are typically the first service agencies to resume operations after a disaster/emergency 
+and can become a primary source of community support during and after the incident. Schools are 
+where children spend a majority of their day and where they receive substantial support from teachers 
+and other staff members, and some schools are the primary setting for psychosocial support and child 
+mental health services. In many ways, teachers and staff are the “first and last responders” for children in 
+an emergency. Students look to their teachers and to school administrators for leadership and guidance, 
+while parents expect and demand that school personnel respond competently and appropriately in such 
+situations. In a school-wide emergency, children’s “everyday” school personnel can provide much of the 
+intervention needed to stabilize the situation. 
+2.	 Preparing for emergencies is critical for all school staff. While school personnel should be prepared 
+to respond to high impact/low frequency events such as school shootings, large-scale natural disasters, 
+and public health emergencies, they must also be prepared to address smaller scale events that schools 
+face each day. Emergency events that do not typically garner national headlines, but do disrupt the 
+learning environment, include suicides, transportation accidents, peer victimization, community violence, 
+staff or student deaths, injuries on the playground, and infectious diseases. Preparedness involves (1) 
+having a comprehensive response and recovery plan, (2) training staff to address the immediate, mid-
+term, and long-term needs of students and staff members, (3) frequent practicing of the comprehensive 
+response and recovery plan, and (4) evaluation and redesign of plan components that no longer meet 
+operational standards for the school. When people are trained in emergency protocols (including 
+students, when appropriate) and have knowledge of techniques to reduce anxiety and establish calm, 
+they are better able to handle the emergency and be of help to the people affected. 
+3.	 Emergencies affect students’ academic and social achievement. Having an effective school 
+psychosocial and mental health recovery plan in place, which includes interventions such as PFA-S, 
+is critical when emergencies threaten to significantly disrupt the learning environment. Such events 
+frequently adversely affected students’ academic and social performance. Counseling services and 
+programs addressing students’ developmental needs have traditionally been viewed as supplementary 
+services, “add-ons” to the academic mission of the school. However, when students’ psychosocial 
+and mental health needs are addressed in a developmental, systematic, and comprehensive manner, 
+students achieve at a higher level.
+4.	 Trauma-related distress can have a long-term impact if left untreated. Unaddressed mental health 
+needs, including those from exposure to violence and other potentially traumatic events, increase dropout 
+rates, lower academic achievement, disrupt peer relationships, and impact overall well-being. Thus, 
+school mental health initiatives such as PFA-S are not only important for the well-being of children and 
+school personnel, but are also critical for the central educational mission of schools.
+5.	 Brief interventions can produce positive results that last. A growing body of research shows that 
+there are brief, effective interventions that have a long-lasting positive influence on students’ and staff 
+members’ trauma-related distress. PFA-S draws from the best available evidence identifying factors that 
+promote improved student and staff functioning after disasters and other emergencies. 
+Psychological First Aid for Schools Field Operations Guide
+5
+Introduction and Overview
+When Should PFA-S Be Used?
+PFA-S is most effective immediately following the incident (e.g., from one hour to a couple of weeks after 
+an event). In some circumstances, assuming the safety of students and staff has been ensured, PFA-S can 
+be initiated while an incident is still occurring, such as in sheltered-in-place or lockdown situations.
+Who Is PFA-S for?
+PFA-S is intended for students, school personnel, and their families who have been exposed to a disaster 
+or other emergency. Whether an emergency occurs on school grounds or in the community at large, 
+schools serve as a central location for professionals to assist children, families, school personnel, and 
+school partners. 
+Who Delivers PFA-S?
+Because it is not psychotherapy, an extended “treatment,” or a stand-alone mental health intervention, 
+any staff member, regardless of whether he/she has had mental health training, can deliver aspects of 
+PFA-S and can contribute to the school recovery by functioning within the PFA framework. Similarly, 
+trained members of community emergency response agencies and mental health professionals may 
+provide PFA-S. During and after an emergency, teachers and other staff are a critical link in promoting 
+resilience, in recognizing the signs of traumatic stress, and in helping students and their families regain a 
+sense of normalcy. For more guidance on how to deliver PFA-S based on your role in the school (principal/
+administrator, teacher, health-related professional, support staff), see Appendix A.
+What Are the Basic Objectives of the PFA-S Provider?
+✔ To establish a positive connection with students and staff members in a non-intrusive, compassionate 
+manner
+✔ To enhance immediate and ongoing safety and provide physical and emotional comfort
+✔ To calm and orient emotionally overwhelmed or distraught students and staff
+✔ To help students and staff members identify their immediate needs and concerns
+✔ To offer practical assistance and information to help students and staff members address their 
+immediate needs and concerns
+✔ To connect students and staff members as soon as possible to social support networks, including 
+family members, friends, coaches, and other school or community groups
+✔ To empower students, staff, and families to take an active role in their recovery, by acknowledging their 
+coping efforts and strengths, and supporting adaptive coping
+✔ To make clear your availability and (when appropriate) link the student and staff to other relevant 
+school or community resources such as school counseling services, peer support programs, 
+afterschool activities, tutoring, primary care physicians, local recovery systems, mental health services, 
+employee assistance programs, public-sector services, and other relief organizations
+National Child Traumatic Stress Network    National Center for PTSD 
+6
+Introduction and Overview
+How Does PFA-S Fit into Existing School Emergency Plans?
+The Emergency Management Cycle in Schools and PFA-S
+Whether conducting school vulnerability assessments or adopting an intervention such as PFA-S, schools 
+organize safety initiatives based on the four-part emergency management cycle. The four-part emergency 
+management cycle includes:
+Prevention/mitigation 
+phase
+Schools both assess and address building security, the safety and integrity of 
+facilities, the culture/climate of schools, and the need for secondary prevention 
+mental health programs.
+Preparedness phase 
+Schools facilitate a rapid, coordinated, and effective response in the event of an 
+actual emergency by taking the following steps:
+•	 Refining emergency management plans and emergency procedures in 
+collaboration with key members of the emergency response community (fire 
+and police departments, disaster services, and public health)
+•	 Periodically reviewing and reinforcing emergency plans and procedures with 
+staff
+•	 Defining building-level and district-level Incident Command System (ICS) 
+structures
+•	 Implementing staff trainings on various topics, including parent-student 
+reunification and PFA-S
+•	 Conducting emergency simulations in collaboration with outside agencies
+•	 Developing and regularly updating a list of providers trained in PFA-S
+Response phase
+Action is taken to effectively contain and resolve an emergency and to decrease 
+the potential for such an emergency to escalate. During this phase, the school 
+executes the emergency management plan and emergency procedures and 
+initiates preliminary activation of the PFA-S teams. Although the response phase 
+may have a clear ending point for emergency response agencies, the transition 
+into the fourth phase, recovery, may be less distinct.
+Recovery phase
+Steps are taken to assist students, staff, and their families in the recovery 
+process and to restore educational operations in schools. This phase involves 
+conducting damage assessments and making repairs, implementing business 
+continuity plans, and addressing grief and stress reactions. The very early 
+stages of the recovery phase (hours or days after an emergency) are the most 
+appropriate time to deliver PFA-S. Depending on the nature of the incident, 
+recovery may be a long-term process. PFA-S is an acute intervention; for 
+information about longer-term interventions appropriate for students and families 
+who have lingering or severe symptoms, go to www.NCTSN.org for a review of 
+evidence-based interventions and treatments.
+This approach grew from the collaborative efforts of various federal agencies, including the Federal Emergency Management Agency, the 
+U.S. Department of Homeland Security, and the U.S. Department of Education’s Office of Safe and Drug Free Schools and its Readiness 
+and Emergency Management in Schools program.
+Psychological First Aid for Schools Field Operations Guide
+7
+Introduction and Overview
+The Incident Command System and PFA-S
+As suggested above, ICS is a central protocol adopted by schools across the nation. In fact, ICS is mandated 
+through the National Incident Management System (NIMS) for any agencies receiving federal funding. It helps 
+schools enhance emergency communications and allows them to work with multiple agencies during difficult 
+and dangerous circumstances. The ICS is an emergency management structure that: 
+1.	 Creates a manageable span of control, ensuring that no one individual oversees too many activities
+2.	 Establishes predetermined incident command locations and facilities
+3.	 Implements the management of resources
+4.	 Ensures integrated communication across multiple organizations
+Within the context of an ICS, emergency mental health recovery services occur in a section of the ICS structure known 
+as Operations (see figure for a sample of ICS structure). Thus, coordination of PFA-S activities during an emergency 
+situation would fall under the direction of the Operations Section Chief who, in turn, reports to the person in charge of 
+all emergency response activities, the Incident Commander. Such coordination is critical, given the speed at which 
+decisions must be made, information must be shared, and resources must be allocated during an emergency.
+Moreover, the Incident Command System is scalable, meaning that it expands and contracts (sections are “activated”) 
+only as the situation requires. In a small-scale emergency, only a small portion of the ICS may be engaged. Similarly, 
+the individuals serving in certain roles within the ICS may change depending on how the emergency situation unfolds. 
+To enter a school site successfully as a PFA-S provider, you will need to work within the framework of the 
+school’s ICS, where the roles and decision-making processes have been clearly defined. You will need to 
+communicate and coordinate all activities with the authorized personnel or organizations that are managing the 
+setting. If you are the team leader, ideally you should be an employee who is regularly onsite, who is a good 
+organizer, who is able to delegate, and understands both the referral process and the ICS. 
+Public Information Officer
+Operations
+Planning
+Incident Commander
+Operations
+Planning
+Logistics
+Finance & Administration
+Student Supervision
+Transportation
+Facility & Materials
+Food Services
+Personnel
+Documentation/Recorder
+Staffing
+Insurance Claims
+Health Services/First Aid
+Site/facility Security
+Communications
+Psychological First Aid
+(PFA-S) Team Leader
+Public Information Officer
+Liaison Officer
+Safety Officer
+Introduction and Overview
+Psychological First Aid for Schools Field Operations Guide
+9
+Preparing to Deliver 
+Psychological First Aid for Schools
+The PFA-S Provider
+As a PFA-S provider, you should be aware of the nature of the event, understand the current circumstances, 
+and be informed about the type and availability of relief and support services and the school’s ICS. If you are 
+providing PFA services on behalf of an outside responding agency, it is critical that you first coordinate with 
+the appropriate school officials before you begin delivering services.
+Personal and Professional Requirements
+Interventions in emergency situations are goal-directed, time-limited, and strength-based. In order to achieve 
+a positive outcome, you may encourage survivors to express their concerns and feelings, while at the same 
+time containing such emotions within an atmosphere of safety and calm. You may also help survivors to 
+identify positive coping strategies.
+You should have these professional skills:
+
+
+Knowledge of and training in the techniques of PFA-S
+
+
+Ability to assess the ongoing needs of students, staff, and others impacted by the event
+
+
+Ability to offer age-appropriate and culturally-appropriate intervention strategies 
+
+
+Knowledge of available resources to which you can refer survivors
+
+
+Basic understanding of how PFA-S fits within the Incident Command System
+
+
+Ability to remain within the scope of your expertise and designated role
+
+
+Ability to pay attention to your own emotional and physical reactions, and practice self-care
+Students take their cues from how others are reacting. By demonstrating calm and clear thinking, you can 
+help those impacted by the event to know that they can rely on you. Others may follow your lead and remain 
+focused, even if they do not feel calm, safe, effective, or hopeful. PFA-S providers often model a sense 
+of hope that students and staff cannot yet feel, as they are still attempting to deal with the event and the 
+concerns surrounding it.
+National Child Traumatic Stress Network    National Center for PTSD 
+10
+Preparing to Deliver Psychological First Aid for Schools
+Preparing to Deliver PFA-S
+Learn about the School
+When responding to a school incident, take into account the history of the school and its surrounding 
+community. Here are some questions for you to consider:
+•	 Have there been any previous adverse events at the school (e.g., threats, violence on campus, staff/
+student deaths, racism or conflicts with certain ethnic groups)?
+•	 Have these adverse events occurred recently and/or frequently? 
+•	 Has the school had prior experience with any post-event interventions? If yes, did the administration/staff 
+find previous interventions helpful or disruptive?
+•	 Have there been any recent events at the school and/or are there any groups functioning within the 
+school community that explicitly promote the strength of the school or that serve as a protective factor for 
+individuals?
+•	 What is the current morale of the school staff and students, and the current “climate” of the school 
+community as a whole?
+•	 Are there any upcoming events at the school (e.g., dances, standardized testing, graduation, 
+accreditation review, sporting events, anniversaries of past events) that might positively or negatively 
+affect the recovery of the school community?
+•	 Are there any recent changes to school staff (e.g., a new principal, reduction in nursing staff time) that 
+may affect response/recovery efforts?
+•	 What is the present relationship of the school to the community? What collaborative relationships, 
+coalitions, and/or stakeholders exist that support the school?
+•	 Are there any members of the school staff who have personal trauma histories that should be taken into 
+consideration by those making decisions related to emergency response or recovery procedures?
+Identify the Distinguishing Features of the Event
+Since every emergency is different, take the nature of the event into account. Before providing services, you 
+should know the following:
+
+
+Location/s of the event/s
+
+
+Time/s and duration of the event/s 
+
+
+Magnitude of the event:
+–
+–
+Number of persons injured or dead
+–
+–
+Was it a confined or open area?
+–
+–
+Was it an isolated or crowded area?
+–
+–
+What were the disturbing features of the event (e.g., sexual abuse, mutilation, torture, chemical 
+exposure)?
+Psychological First Aid for Schools Field Operations Guide
+11
+Preparing to Deliver Psychological First Aid for Schools
+
+
+Impact of the event relative to the size of the community
+
+
+Cause of the event: 
+–
+–
+Accident/man-made 
+–
+–
+Natural disaster 
+–
+–
+Intentional (e.g., act of terrorism, shooting, suicide)
+
+
+Levels of exposure to the event, including:
+–
+–
+Secondary exposures (e.g., administering first aid to the injured, rescue efforts, additional threats)
+–
+–
+Significance of losses (e.g., students or staff who were particularly prominent in the school)
+
+
+Unique features of the event (e.g., disasters with no warnings, prior knowledge of the violent event, recent 
+previous suicide attempts, prior cluster suicides, similarities to prior adverse events)
+
+
+Rumors circulating about the event
+Be Aware of At-Risk Populations
+Students and staff members who are at special risk include those who:
+•	 Had direct exposure (e.g., exposed firsthand or experienced extreme life threat)
+•	 Have been injured
+•	 Have experienced the death or serious injury of a loved one
+•	 Had a close personal relationship with any victim(s)
+•	 Have a history of depression or suicidal thoughts or attempts
+•	 Have a history of anxiety, shyness, or low self-confidence 
+•	 Have a history of risk-taking behavior
+•	 Have experienced prior traumatic events and are at current risk, including:
+–
+– Those exposed to community violence or domestic violence
+–
+– Those with a history of abuse and/or neglect
+–
+– War or other refugees or political asylees
+–
+– Members of economically disadvantaged groups
+–
+– Medically vulnerable individuals
+–
+– Those from disaster-prone regions
+Certain groups of individuals in the school community may mistrust others, feel stigmatized, or fear 
+repercussions (e.g., deportation, punishment), in addition to lacking knowledge about recovery services. 
+Children of rescuers and first responders may also be at special risk in situations where their parents are in 
+danger. Finally, students with an individualized educational plan (IEP) or those who meet the requirements of 
+a disability as delineated by the Individuals with Disabilities Education Act (IDEA) may need accommodations 
+or additional assistance. 
+National Child Traumatic Stress Network    National Center for PTSD 
+12
+Preparing to Deliver Psychological First Aid for Schools
+Be Sensitive to Racial and Cultural Diversity
+Remember to respect cultural, ethnic, religious, racial, and language differences. Whether providing outreach or 
+services, be aware of your personal values and prejudices and how these may agree or conflict with those of the 
+school community you are serving. Training in cultural competence can facilitate this awareness. Students and 
+staff members are better able to cope when they maintain their traditions, rituals, gender roles, and social bonds.
+Guidelines for Delivering PFA-S
+✔ Operate only within the framework of an authorized school emergency response system.
+✔ Before you approach an individual or a group, first observe politely. 
+✔ Initiate contact only after you have determined that you are not intruding or interrupting. 
+✔ Offer practical assistance (food, water). This is often the best way to make contact. 
+✔ Ask simple, respectful questions to determine how you may help.
+✔ Remain flexible and adjust to people and their situations as needed. Do not enter the site with any 
+agenda other than providing PFA-S.
+✔ Be prepared for those impacted by the event to either avoid you or flood you with contact.
+✔ Speak calmly. Be patient, responsive, and sensitive. 
+✔ Speak slowly, in simple concrete terms; do not use acronyms or jargon.
+✔ Listen carefully when students or staff members want to talk. Focus on understanding (“getting”) what they 
+want to tell you, and hearing how you can be of help. Children who are too young to speak, or who may not 
+speak clearly, often express their feelings and show what they want through their behaviors, such as play.
+✔ Support and reinforce the person’s individual strengths and coping strategies, including the positive 
+things he/she has done to stay safe.
+✔ Give information that directly addresses the person’s immediate goals, and clarify answers repeatedly as 
+needed.
+✔ Give information that is accurate and age-appropriate. Remember that even very young children need to 
+know what has happened. Tell children the truth, but keep it brief and speak to their developmental level 
+(e.g., avoid discussing the details of a death).
+✔ Reassure young children that the adults are there to protect them and keep them safe. Even when adults do 
+not feel safe, young children need to be assured that everything possible is being done to keep them safe. 
+✔ When communicating through an interpreter, look at the person with whom you are talking, not at the 
+translator or interpreter. 
+✔ PFA-S leaders should reach out to those in positions of authority (e.g., administrators, school resource 
+officers) who have been equally exposed but who, due to their position, need to project a sense of calm 
+and control to those under their care.
+Psychological First Aid for Schools Field Operations Guide
+13
+Preparing to Deliver Psychological First Aid for Schools
+✔ 
+Assist support staff (e.g., custodians, bus drivers, food workers, librarians, secretaries, coaches, 
+instructional aides) whose emotional needs may be overlooked in emergencies. These staff members, 
+who are often involved in directing, calming, and reassuring students and parents, are among the 
+important stabilizing factors in students’ lives. 
+✔ 
+Remember that the goal of PFA-S is to reduce distress, assist with current needs, and promote adaptive 
+functioning, not to elicit details of traumatic experiences and losses.
+✔ 
+Keep in mind that the goal of schools is to support academic achievement. Ask students what they need 
+to be able to attend school every day, to complete their work and succeed in school, and to stay safe in 
+their lives outside of school. 
+Behaviors to Avoid
+✘ Do not make assumptions about what students and staff have experienced during the incident or are 
+experiencing currently.
+✘ Do not assume that everyone who has been through the emergency will be traumatized.
+✘ Do not pathologize. Most acute reactions are understandable and expectable, given what students 
+and staff have experienced. Do not label reactions as “symptoms” or speak in terms of “diagnoses,” 
+“conditions,” “pathologies,” or “disorders.”
+✘ Do not talk down to or patronize students or staff. Do not focus on the individual’s helplessness, 
+weaknesses, mistakes, or disability. Focus instead on what he/she has done that is effective or has 
+contributed to helping themselves or others, both during the emergency and in the present setting. Let 
+the student know that continuing to attend school and performing academically shows his/her strength 
+and resilience. Highlight to staff that coming to work every day or taking on additional duties shows 
+their strength.
+✘ Do not assume that all students and staff members want or need to talk to you. Being physically 
+present in a supportive and calm way in itself often helps affected people feel safer and more able 
+to cope.
+✘ Do not “debrief” by asking for details of what happened.
+✘ Do not speculate or give information that might be inaccurate. If you cannot answer a question, say so, 
+and do your best to learn the facts.
+Adapt PFA-S for Students with Disabilities or Other Impairments
+Children with special needs, specifically those with a disability who receive accommodation services, may 
+not be as responsive to PFA-S techniques and adjustments may be needed. Design and adapt interventions 
+to their particular abilities and enlist their teachers and teaching assistants for help. In this way, you will 
+contribute to a successful resolution of the situation. Some considerations for different disabilities follow: 
+Autism
+Children with an autism spectrum disorder (ASD), such as Asperger’s Disorder, may be mainstreamed in 
+general education classes or in self-contained classrooms depending on their disability and accompanying 
+behavioral issues.
+National Child Traumatic Stress Network    National Center for PTSD 
+14
+Preparing to Deliver Psychological First Aid for Schools
+HOW 
+TO 
+HELP
+These students may be particularly sensitive to new people and to changes in their 
+routine or surroundings. If possible, announce changes before they occur. These 
+students may have heightened sensitivity to sounds, bright lights, new tastes, smells, 
+or cold temperature that may disrupt their emotional equilibrium in response, for 
+example, to sirens or alarm bells. Students with ASD may be obsessive or hyper-
+focused on some element of the crisis, and they may upset others when they 
+perseverate on the details of an event or exhibit self-soothing behaviors such as 
+rocking.
+Many of these students have behavior plans that include their going to a 
+predetermined “safe place” when they are distressed. When possible to do so, allow 
+them to follow their behavior plans. They will respond best to a familiar teacher or 
+other person in authority who can calmly reassure them of their safety and set firm 
+limits on their behaviors.
+For students in a self-contained classroom, the most helpful intervention will be a 
+return to their normal daily routine. They may not be responsive to new people. For 
+many of these students, attempts to teach them exercises meant to help them cope 
+may, in fact, increase their distress. 
+Learning Disabilities
+Children with one or more learning disabilities (such as dyslexia, visual/spatial problems, expressive or 
+receptive language disorders, memory deficits) tend to be in general education classes. 
+HOW 
+TO 
+HELP
+These children should be responsive to most PFA-S strategies. The nature of the 
+learning disability may affect a child’s ability to benefit from a specific exercise. For 
+example, a student with a language disability may have difficulty expressing his/
+her feelings in writing, or he/she may have difficulty accurately recalling contact 
+information such as a phone number and street address. Adapt specific exercises to 
+the student’s strengths.
+Speech Impairment 
+Children with speech and language deficits, including students with language processing issues, tend to be in 
+general education classes.
+HOW 
+TO 
+HELP
+Students with language deficits may have difficulties with comprehension or with 
+verbal expression. These students may respond best to exercises that include 
+activities and visual cues, such as artwork, or relaxation strategies that can be 
+modeled rather than just described.
+Psychological First Aid for Schools Field Operations Guide
+15
+Preparing to Deliver Psychological First Aid for Schools
+Cognitive Impairment 
+Students with mental retardation/cognitive delays may be mainstreamed in general education classes or in 
+self-contained classrooms, depending on the severity of their disability and accompanying behavioral issues. 
+HOW 
+TO 
+HELP
+Similar to students with autism, students with cognitive delays will do best after 
+they return to their normal routine. Higher functioning students in general education 
+classes may require simpler, more concrete directions, but they should respond to 
+most PFA-S strategies.
+Emotional Disturbance
+Children identified as having an emotional impairment may have a variety of mood (depression, anxiety, anger, 
+fear, apathy) and/or behavioral (aggression, withdrawal, hyperactivity, temper tantrums) issues, with the most 
+serious disturbances including distorted thinking, excessive anxiety, bizarre motor acts, abnormal mood swings, 
+or psychosis. Some of these students will have a trauma history, and the current event may bring up reminders of 
+past events that will be unsettling and disruptive. These students, whether mainstreamed in the general population 
+or in self-contained classrooms, may act unpredictably and need their teachers and support staff to intervene. 
+HOW 
+TO 
+HELP
+While most children with an emotional disturbance status may be responsive to 
+the PFA-S techniques you are using, ask their teachers to identify which students 
+may be resistant or become distressed. Most of these children will have behavioral 
+intervention plans that include options for them to follow in certain circumstances; for 
+example, a child who may become out of control is allowed to visit a particular adult 
+or engage in a particular activity in order to self-soothe. When possible, try to follow 
+the familiar and established routine. If this is not feasible, the child’s teacher, aide, or 
+another familiar member of the child’s team should be the one to explain the new plan 
+to him/her.
+Orthopedic, Hearing, or Visual Impairment
+Children with orthopedic, hearing, or visual impairments will often experience an increased sense of 
+vulnerability and distress when the unexpected happens. 
+HOW 
+TO 
+HELP
+Reassure these children that they are safe, and work with their teachers or aides 
+to design or adapt interventions for their needs. Again, their teachers and teaching 
+assistants will be best able to help restore calm.
+National Child Traumatic Stress Network    National Center for PTSD 
+16
+Preparing to Deliver Psychological First Aid for Schools
+Other Health Impairment
+Children will other health impairments (e.g., asthma, epilepsy, diabetes) may have limited strength, vitality, or 
+alertness due to chronic or acute health problems. 
+HOW 
+TO 
+HELP
+Watch carefully for signs that students are having physical distress. Ask them if they 
+are physically okay and if they need any help. Seek appropriate medical attention as 
+needed.
+Attention-Deficit/Hyperactivity Disorder (ADHD)
+In a crisis, you may see students with ADHD increase their symptoms of hyperactivity and impulsivity, 
+resulting in out of control behavior. 
+HOW 
+TO 
+HELP
+Students with ADHD will benefit from activities that allow for physical movement. 
+When giving directions, calmly tell students exactly what you expect, avoid directions 
+with more than one or two steps, and give warnings about specific consequences for 
+inappropriate behavior.
+Implement PFA-S in Groups
+PFA-S can be delivered in various group settings, such as in classrooms, with a small group of students, or 
+with school staff. It is best to run groups with another provider. 
+When meeting with groups, keep the following in mind:
+•	 Tailor the discussion to the shared needs and concerns of the group.
+•	 Focus the discussion on problem solving and applying coping strategies to immediate issues.
+•	 Allow only one person at a time to speak.
+•	 Answer questions honestly, but limit the information to what the students and staff can handle and tolerate.
+•	 Do not let discussions about concerns lapse into complaints.
+•	 Redirect the discussion if it turns to descriptions of gruesome or disturbing details of the emergency. If 
+an answer might be upsetting, tell the individual that at this time the information would not be helpful to 
+everyone, but that you can discuss it privately later.
+•	 If you sense that individuals are becoming anxious or distressed, interrupt and lead the group in a 
+relaxation exercise (e.g., ask everyone to be silent and to take a few slow breaths; then refocus the 
+conversation). 
+•	 If an individual needs further support, offer to meet with him/her after the group discussion.
+•	 Keep the focus on creating a supportive environment for each other, with the overall goal of having the 
+school return to a healthy learning environment.
+For more guidelines on conducting PFA-S in groups (assemblies, classroom, and small groups), see Appendix B. 
+Psychological First Aid for Schools Field Operations Guide
+17
+Psychological First Aid Core Actions
+1.	 Contact and Engagement 
+Goal: To initiate contacts or to respond to contacts by students and staff in 
+a non-intrusive, compassionate, and helpful manner
+2.	 Safety and Comfort  
+Goal: To enhance immediate and ongoing safety, and 
+provide physical and emotional comfort
+3. Stabilization (if needed) 
+Goal: To calm and orient emotionally overwhelmed or disoriented students and staff
+4.	 Information Gathering: 
+Current Needs and Concerns  
+Goal: To identify immediate needs and concerns, gather 
+additional information, and tailor Psychological First Aid for 
+Schools interventions to meet these needs
+5.	 Practical Assistance 
+Goal: To offer practical help to students and staff in addressing immediate 
+needs and concerns
+6.	 Connection with Social Supports  
+Goal: To help establish brief or ongoing contacts with primary 
+support persons or other sources of support, including family, 
+friends, teachers, and other school and/or community resources
+7.	 Information on Coping  
+Goal: To provide information about stress reactions and coping to reduce 
+distress and promote adaptive functioning
+8.	 Linkage with Collaborative Services  
+Goal: To link students and staff with available services 
+needed at the time or in the future
+These core actions of Psychological First Aid for Schools constitute the basic objectives of providing early 
+assistance within hours, days, or weeks following an event. Be flexible and base the amount of time you 
+spend on each core action on the person’s specific needs and concerns.
+Psychological First Aid for Schools Field Operations Guide
+19
+Core Action 1: 
+Contact and Engagement 
+Illustration by Dr. Bob Seaver
+Goal
+To initiate contacts or to respond to contacts by students and staff in a non-intrusive, 
+compassionate, and helpful manner
+Your first contact with a student or staff member is an important opportunity to promote a sense of calm, 
+hope, and support to those impacted by the event. You may be delivering services in a large setting, such 
+as a school gymnasium, classroom, or offsite evacuation field. Make sure the setting has been explicitly 
+designated as safe and secure by an emergency response agency and/or as communicated through the 
+Incident Command System (ICS).
+National Child Traumatic Stress Network    National Center for PTSD 
+20
+Core Action 1: Contact and Engagement
+Making Initial Contact
+Keep the following in mind when making initial contact:
+
+
+Remember that some students, staff, or family members may not seek your help, but may still benefit 
+from assistance. Actively engage individuals by walking around the setting and introducing yourself. Try to 
+be mindful not to interrupt conversations.
+
+
+While an entire school or class may have witnessed or been affected by an event, no two individuals are 
+likely to be impacted the same way.
+
+
+Not all individuals will be traumatized or be in need of PFA-S. Expect resilience, but be on the lookout 
+for those who appear to be struggling or who are likely to be “at-risk” due to other factors mentioned 
+previously. One way is by observing their behavior first, either alone or with their peers.
+
+
+Reach as many individuals as possible for initial contact, but do not assume that they will all need further 
+assistance.
+
+
+Do not assume that people will respond to you immediately or positively. It may take time for some 
+students or bereaved persons to feel a degree of safety, confidence, and trust. 
+
+
+If an individual declines your offer of help, respect his/her decision and indicate when and where he/she 
+can locate a PFA-S provider later on.
+
+
+One way to engage students and staff is by attending to their basic needs (e.g., passing out water, food). 
+
+
+Ensure that students and others are able to hear, read, and understand information, regardless of their 
+language fluency or their auditory, speech, or cognitive abilities. If working in self-contained classrooms or 
+with students with an IEP, have a teacher or aide who regularly works with the student present, if feasible. 
+
+
+Hysteria spreads like wildfire. If possible, isolate an agitated person from others, but make sure everyone 
+who wants assistance receives it.
+Provider Alert
+•	 Respond first to those who seek you out.
+•	 If a number of people approach you simultaneously, make contact with as many as you can.
+•	 Giving a brief look of interest and calm concern can be grounding and helpful to people who are 
+feeling overwhelmed or confused.
+Introduce Yourself/Ask about Immediate Needs  
+
+
+Introduce yourself, if you have not been introduced by a teacher or other staff member, by giving your 
+name and title, and describing your role. 
+
+
+Ask for permission to explain how you might be of help. 
+Psychological First Aid for Schools Field Operations Guide
+21
+Core Action 1: Contact and Engagement
+
+
+Speak calmly and slowly. 
+
+
+Refrain from looking around or being distracted. 
+
+
+Ask about any pressing problem that needs immediate attention. 
+
+
+Give priority to urgent medical concerns and immediately relay them to the PFA-S Team Leader via phone 
+or radio. The Team Leader, in turn, should seek resources from the Operations Section Chief. If phone or 
+radio are not available, then relay the information via a staff member or a designated student “runner.” 
+
+
+If you speak with a child in significant distress, contact a teacher, school counselor, parent, or caregiver 
+as soon as possible to let him/her know about your conversation so he/she can provide additional support 
+to the child.
+To make initial contact, you might say:
+Staff/Family Members
+Hello. My name is ___________. I work with __________ and I am part of the 
+school-based mental health recovery team. 
+I’m checking in with staff/family members to see how they are doing, and to see 
+if I can help in any way. Is it okay if I talk to you for a few minutes? May I ask your 
+name? Mrs. Williams, before we talk, is there something that you need right now?
+Adolescent 
+My name is ___________. I work with __________ and I am part of the 
+school-based mental health recovery team. I am touching base with students 
+to see how they are doing and find out what they need. Is it okay if I talk to 
+you for a few minutes?
+Child
+(Get on child’s eye level, smile and greet the child, using her/his name and 
+speaking calmly.)
+Hi, Lisa. My name is ___________. I am working with Mr./Ms./Teacher 
+__________ to help you and your family/classmates. Is there anything you 
+need right now? Are you warm enough? Do you want a drink or some food?
+Culture Alert
+The type of physical or personal contact considered appropriate may vary from person to person and across 
+cultures and social groups, for example, how close to stand next to someone, how much eye contact to 
+make, or whether or not to touch someone, especially of the opposite sex.
+Do: 
+✔ Look for clues that indicate an individual’s need for “personal space.”
+✔ Seek guidance about the most common and important cultural norms from school or community 
+cultural leaders who best understand local customs. Also ask about cultural variations, both between 
+distinctive groups and within groups, to avoid stereotypes.
+✔ Ask the person what cultural traditions or rituals are important to him/her. 
+(continued on next page)
+National Child Traumatic Stress Network    National Center for PTSD 
+22
+Core Action 1: Contact and Engagement
+Culture Alert (continued)
+Don’t:
+✘ 
+Use sustained eye contact or stand too close to an individual unless he/she initiates such contact.
+✘ 
+Touch the individual unless you have asked permission. Only touch in a way that cannot be 
+misinterpreted by others.
+✘ 
+Make assumptions about the individual’s culture, race, nationality, or belief system.
+✘ 
+Expect all members of a group to be too similar in their beliefs and behaviors.
+Initiating Contact and Engagement by Setting
+PFA-S needs to be adapted depending on the setting where you deliver the services. For specific guidelines 
+for assemblies, classrooms, and small groups, see Appendix B. 
+Provider Alert
+We distinguish between delivering PFA-S to small groups in large, open settings (groups organized in an 
+evacuation field or multiple groups in a gymnasium) and attempting to deliver PFA-S to large groups of 
+students all at once. We strongly discourage delivering PFA-S or any other intervention to large groups of 
+individuals, as it may be particularly harmful, given how quickly intense emotions may spread.
+If possible avoid large group settings—such as an auditorium—when you need to deliver emotionally sensitive 
+information, even if it is just limited to updates on the emergency. Many administrators may choose to hold 
+a large, all-school gathering immediately after an emergency because of its convenience and the perception 
+that information can be delivered accurately to large groups. The reality is that, in an emotionally charged 
+environment, one message will be heard many different ways and may easily become distorted. Similarly, 
+strong emotions expressed in a large group setting may cause unnecessary distress. 
+For parent-student reunification sites and student assembly areas, ensure that private rooms or discrete 
+locations are available to deliver PFA-S to particularly vulnerable individuals. When entering these areas, first 
+observe how individuals or groups are functioning to determine the level of need. Typically, giving regular and 
+accurate updates helps to reduce anxiety. However, if the situation is still unfolding, updated information may 
+not be available yet. In these situations, help students and families cope with their anxieties and fears, and 
+clarify any misinformation. Staying calm is critical. Identify students with special needs and determine whether 
+a familiar adult or staff member is available to provide additional support.
+In situations in which small groups of students and staff gather informally or in classroom settings, the 
+purpose of these meetings is not to discuss the details of the event. In most situations, these individuals will 
+have had varying experiences. Exposure to individuals sharing explicit details of the event by those who 
+have had limited experience of the event may cause unnecessary distress. PFA-S providers can organize 
+small groups of individuals with similar experiences, such as all students who were injured, or friends of the 
+deceased, to create a place for more detailed discussions to occur. 
+Psychological First Aid for Schools Field Operations Guide
+23
+Core Action 1: Contact and Engagement
+Putting PFA into Practice 
+An elementary school principal requested help after one of his students was hit and killed by a car over 
+the weekend. A safe room was established where students could go if they were feeling overwhelmed or 
+needed to be with friends. One student was observed sitting in a corner, apart from the others, extremely 
+upset. A teacher quietly walked over and sat with her. When the student appeared calmer, the teacher 
+asked if she could talk with her. The student initially refused, so the teacher asked if she could continue 
+to sit next to her. After a few minutes, the student began discussing how the loss of her friend was so 
+overwhelming to her.
+The teacher said little, but was able to comfort the student through observation, body language, 
+and quiet support.
+Protect Confidentiality
+Given the lack of privacy in some school settings, you may find it challenging to try to protect the 
+confidentiality of students, staff, and families after an emergency. However, it is important that you maintain 
+the highest level of confidentiality possible. As a provider of PFA services in a school setting, you likely belong 
+to a category of mandated reporters and must abide by state abuse and neglect reporting laws. You should 
+be aware of the Health Insurance Portability and Accountability Act (HIPAA) and the provisions related to 
+disaster and terrorism. Similarly, you should be aware of privacy and information-sharing concerns associated 
+with the Federal Educational Records Protection Act (FERPA), particularly as these relate to the sharing of 
+information about students who are deemed a potential harm to themselves or others.
+If you have questions about releasing information, your PFA-S team leader should discuss this with school 
+administration and determine if this needs to be further reviewed by the school’s legal counsel. Talking to 
+co-workers about the challenges of working in the post-emergency environment can be helpful, but any 
+discussions need to preserve confidentiality.
+Psychological First Aid for Schools Field Operations Guide
+25
+Core Action 2: 
+Safety and Comfort 
+Illustration by Dr. Bob Seaver
+Goal
+To enhance immediate and ongoing safety, and provide physical and emotional 
+comfort
+Restoring a sense of safety and giving physical and emotional comfort in the immediate aftermath of an 
+emergency can begin to reduce distress and worry for students and staff members. When you can give 
+individuals some sense of predictability, they regain a feeling of security and control.
+Keep in mind that the primary responsibility for maintaining the safety of the school community rests with the 
+school administration and staff. In other words, if you are working on behalf of an outside responding agency, you 
+must first coordinate with the appropriate school officials before providing any information to students or staff.
+National Child Traumatic Stress Network    National Center for PTSD 
+26
+You can provide comfort and increase sense of safety in a number of ways, including helping students, staff, 
+and their families to:   
+
+
+Do things that are:
+–
+–
+Active (rather than passive waiting)
+–
+–
+Practical (using available resources)
+–
+–
+Familiar (drawing on past experience)
+–
+–
+Soothing (calming and relaxing, easy on the nerves)
+
+
+Get current, accurate, and up-to-date information, while avoiding exposure to information that is 
+inaccurate or excessively upsetting
+
+
+Get information about how responders are making the situation safer
+Ensure Immediate Physical Safety
+If you are providing PFA in a school setting where there may still be either a real or perceived threat to safety, 
+make sure that everyone is physically safe to the extent possible. If necessary, reorganize the immediate 
+environment to increase both physical and emotional sense of safety. Immediately report any safety concerns. 
+For example:
+
+
+Find the appropriate officials who can resolve safety concerns beyond your control, such as threats or weapons.
+
+
+If clearly safe to do so, remove clutter or damaged equipment from the area where you are working. Let 
+the PFA-S Team Leader or the Operations Section Chief coordinating response efforts know if there are 
+sharp objects, spilled liquids, broken glass, or other dangerous items that need removal. 
+
+
+Ask students, staff members, or caregivers if there are special medical concerns, medical devices, or 
+medications that individuals may need. If yes, contact a school nurse, medical team leader, or relative. 
+Other safety concerns involve:
+
+
+Threat of harm to self or others – Look for signs that students or family members may hurt themselves 
+or others (e.g., students expressing intense anger or agitation). If you need additional support or are not 
+trained to assess at-risk individuals, get help by contacting medical or mental health personnel, an EMT, 
+or security to handle the situation.
+
+
+Shock – Seek immediate medical support if an individual is showing signs of shock or has these symptoms: 
+pale, clammy skin; weakness or rapid pulse; dizziness or irregular breathing; dull or glassy eyes; is 
+unresponsive to communication; lacks bladder or bowel control; or shows restlessness, agitation, or confusion. 
+Provide Information about Response Activities and Services
+Students and staff need to understand the broader context of response activities occurring at the school 
+and in the community. When even the most minimal of predictable schedules or activities is reestablished, 
+individuals begin to feel more stable. 
+Core Action 2: Safety and Comfort
+Psychological First Aid for Schools Field Operations Guide
+27
+Provide information about:
+
+
+What to do next
+
+
+The status, if known and if safe, of their classmates, teachers, other school staff, and relatives who may 
+also be in the school
+
+
+What is being done to assist them
+
+
+What is currently known about the unfolding event
+
+
+The support services available to them and their families
+
+
+When and where school services will be resumed
+
+
+The best way to get updated information about the situation in the hours or days ahead
+In providing information:
+
+
+Make sure school authorities have granted permission to share event-specific information, such as the 
+circumstances of the current situation, the names of those directly affected by event, and when school 
+services will resume.
+
+
+Use your judgment as to whether and when to present specific information. 
+
+
+Use clear and concise language while avoiding technical jargon.
+
+
+Position yourself, when feasible, at eye level with the individual.
+
+
+Use a calm, reassuring tone of voice and give the person time and space to talk.
+
+
+Provide accurate information, in easy to understand terms, to young students, about who will be supervising 
+them and what to expect next. Consider using visual cues and materials to illustrate your information. 
+
+
+Consider when talking to students:
+–
+–
+Is it appropriate to share this information given his/her age?
+–
+–
+Does he/she appear able to comprehend what you are saying?
+–
+–
+Is he/she ready to hear the content of what you are saying?
+Remember:
+
+
+Address immediate needs and concerns to reduce fears, answer pressing questions, and support 
+adaptive coping.
+
+
+Students, staff, and family members may be getting information from many sources of technology (texting, 
+Twitter, Facebook, TV, radio, phone, Internet). Ask about what they have heard or read and address any 
+misinformation or distressing information.
+
+
+Do not guess or invent information if you do not know it in order to provide reassurance. Instead, develop 
+a plan, with those you are helping, to get them the information. 
+Core Action 2: Safety and Comfort
+National Child Traumatic Stress Network    National Center for PTSD 
+28
+Core Action 2: Safety and Comfort
+
+
+Do not reassure people of the availability of goods or services (e.g., shelter, medicines, donations) unless 
+you know that such goods and services will be available.
+
+
+When working with families, be sure to include children in discussions and in sharing information if it is 
+appropriate. Do not just speak to the parent or caregiver. When children are left out of discussions, they 
+may feel more insecure.
+Examples of what you might say include: 
+Parent/Caregiver
+A parent-student reunification area has been set up on the football field. At 
+this location, you can get updated information about the situation. There is 
+also food and water. When the students are released, they will go to this 
+location. Do you need directions? Do you have any other questions?
+Group of Students 
+Here’s what’s going to happen next. When your class is released, we will 
+walk over to the football field, where your parents and the buses will be 
+waiting. The principal informed me that we’re currently safe. Do you have any 
+questions right now?
+Individual Student
+We’re working hard to make you and the rest of the school safe. I was 
+informed by the principal that we have to stay here to keep us safe. Your 
+parents have been notified and are waiting on the football field. When I am 
+told it is okay, we will walk over together. Do you have any other questions?
+Attend to Physical Comfort
+
+
+Look for simple ways to make the physical environment more comfortable. 
+
+
+Make sure that the area in which you will work with the students or staff is accessible for individuals with 
+disabilities, has minimal distractions, is warm, has good lighting, and has areas where you can speak 
+privately.
+
+
+Help students and staff to soothe and comfort themselves and others around them.
+
+
+Keep young children with staff members who are familiar to them. When available, give them toys that 
+they can hold and take care of to help them soothe themselves. 
+
+
+Encourage students and staff to participate in getting things they need for comfort (offer to walk over to 
+the food area with the person rather than retrieve food for him/her). Taking action helps reduce feelings of 
+helplessness and dependency.
+Address Media and Social Networking Safety Concerns
+In addition to securing their physical safety, protect individuals from unnecessary exposure to additional 
+potentially traumatic events and reminders, including sights, sounds, or smells that may be frightening. This 
+includes media and social networking information.
+Psychological First Aid for Schools Field Operations Guide
+29
+Core Action 2: Safety and Comfort
+
+
+Point out that excessive viewing of media coverage may not only upset them, but may also subtly re-
+traumatize them. 
+
+
+Discourage teachers and other staff from ongoing media viewing in and outside the classroom.
+
+
+Remind them that some reports may not be accurate and identify where they can get reliable and up-to-
+date information.
+
+
+Many individuals may use the Internet, texting, and/or social networking (e.g., Twitter, Facebook) to 
+share information. Be aware that the amount of emergency information being shared through these 
+technologies will be out of your control, but it is important to monitor what is being communicated. For 
+example, students often develop a “memorial page” on Facebook when a member of the community is 
+injured or died. Regularly monitor this page to see if disturbing details or misinformation are being posted. 
+Notify the administrator about this site so that he/she can delete any inappropriate posts.
+
+
+Be proactive by encouraging school officials to post accurate information and psychoeducational material 
+(including recommendations for where to seek assistance) on these forums, on other social media sites, 
+and on official websites as soon as possible. 
+
+
+Encourage students to ask questions or share information they have learned from these forums with 
+trusted adults. Ask students what they heard or what they know about the situation to help you start the 
+discussion.
+
+
+Shield students from reporters, onlookers, and attorneys, in order to help protect their privacy. Many 
+schools have a clear policy not to allow their students to be interviewed by the media during an 
+emergency. If the policy does allow for interviews, remind students that they may decline a media 
+interview or have an adult they trust with them, if they choose to participate.
+Provider Alert
+It is very natural for students to seek out information through the media. At times, however, they may 
+become fixated on it. While such behavior may be a protective factor—in that children are seeking to 
+understand the event, learn more, put it into context, and avoid further danger—such behavior can also 
+evoke fear and distress. You should tell teachers, parents, and other caregivers that: 
+•	 They should monitor and limit children’s exposure to the media, and discuss any concerns the 
+children have. Encourage them to regularly check in to keep communication open. 
+•	 They can let children know that they are keeping track of information and that they should come to 
+them for updates.
+•	 Young children are often confused by repeated media coverage and assume that the events that they 
+see in the media are happening over and over again.
+•	 They should be careful about adults watching media reports if children are in the same or an adjacent 
+room, as children can overhear and become confused and frightened by what they learn. 
+•	 For parents, suggest that they may consider watching or listening to limited, carefully selected news 
+with their children and then discussing the information together afterwards. This will help children 
+process the event and allow them to see their family members as protective and supportive.
+National Child Traumatic Stress Network    National Center for PTSD 
+30
+Core Action 2: Safety and Comfort
+Examples of what you might say include:
+Teacher/Other Staff
+It’s a good idea to shield yourself and your students from further frightening or 
+disturbing sights and sounds as much as possible. Even televised scenes or 
+pictures can be very disturbing to children. It doesn’t hurt for adults to take a 
+break from all the media coverage, too.
+Adolescent/Child 
+You’ve been through a lot already. Kids often want to watch TV a lot or go 
+online after something like this, but that can be more upsetting and not very 
+helpful. It’s best to stay away from media reports that show this stuff. If you 
+happen to see something that bothers you, be sure to tell your parents, your 
+teacher, or another trusted adult.
+Attend Funerals and School Memorials to Monitor Those at Risk
+In conjunction with school officials, consider how funerals and school memorials may serve as trauma reminders 
+for students and staff. Although there are many concerns associated with holding school-wide functions to 
+memorialize a violent event or accident, some schools still choose to hold them. A PFA-S provider should always 
+be present at such events. The potential for memorial events to re-traumatize is real, particularly for elementary 
+students. Take care during the event to monitor those in attendance, engage them in a sensitive way, and 
+provide psychoeducational materials. While it is helpful to provide psychoeducational materials to attendees of 
+memorials and to high-risk students on anniversary events, it is never appropriate to do so at funerals.
+During funerals and school memorials, some individuals who were not close to the event but who have experienced 
+similar loss in their lives or have other risk factors may become extremely upset. Those at risk may include those 
+having pervasive fantasies about reuniting with the individual who has died or those who have a history of:
+
+
+Attempted suicide
+
+
+Substance abuse 
+
+
+Severe depression or other mental illness
+
+
+Violent behavior, particularly when combined with access to weapons
+After providing immediate assistance when these individuals become upset, collaborate with other providers 
+to monitor them in the days and weeks following the event. Reactions may linger and it is important for these 
+individuals to know that there are supports and resources available to them.
+Provider Alert
+Permanent memorials should be avoided. A school community is a dynamic process, and often 
+the emotional significance of a memorial is lost over time. Unless the event was of major historical 
+significance to the community, future generations of students and staff should not be constricted, 
+however slightly, by tragedies of the past. Similarly, schools should avoid living memorials, such as trees 
+or flower gardens, as their ongoing maintenance or health may become an issue.
+Psychological First Aid for Schools Field Operations Guide
+31
+Core Action 2: Safety and Comfort
+Address Personal Belongings, “Empty Chairs,” and Temporary Memorials
+Although it is important to protect students and staff from being constantly reminded of an event or becoming too 
+emotional, do allow individuals to grieve at their own pace. Many well-intentioned adults quickly remove all traces of 
+a teacher or student who has died; however, many students/staff members want to honor the life of the deceased.
+
+
+Do not immediately remove pictures of the deceased that are displayed in the classroom or school.
+
+
+Do not immediately place another student in the desk/seat of the person who has died.
+
+
+Do allow students to talk about their memories of the person who has died. If a student’s focus on the 
+deceased persists and later interferes with functioning, he/she may be encouraged to speak to a family 
+member or professional outside of the classroom.
+
+
+Prior to any emergencies, schools should work with their school board and the community to establish 
+procedures for accepting donations, as well as for removing temporary memorials. For example, schools may 
+have a pre-designated, temporary, in-school memorial site where flowers, poems, cards, and photographs can 
+be collected and displayed. However, schools should clearly communicate from the start that such memorials 
+are temporary and will be in place for a limited time, and that after that time the items will be collected and 
+given to the deceased individual’s family. Consider having a well-respected representative of the student body 
+assist in this process, to provide a sense of closure and respect for the student body as a whole. The school 
+should work with the family if online memorials are created in order to monitor these sites for at-risk individuals.
+Help Students/Staff with Grief
+Culture Alert 
+Beliefs and attitudes about death, funerals, and expressions of grief are strongly influenced by family, culture, 
+religious beliefs, and rituals related to mourning. Learn about the cultural norms of the student and staff 
+through the assistance of community cultural and school leaders who best understand local customs. Even 
+within cultural and religious groups, beliefs and practices can vary widely. Do not assume that all individuals in 
+a given group will believe or behave the same way. You should allow individuals to engage in their traditions, 
+practices, and rituals in order to provide mutual support for each other, to seek meaning, to manage the range 
+of emotional responses and death-related adversities they may experience, and to honor the death appropriately.
+Acute Grief Reactions are likely to be intense and prevalent among those who have suffered the death 
+of a loved one or close friend. They may feel shock, disbelief, sadness, and anger; feel responsible for not 
+preventing the death; regret not providing comfort or having a proper leave-taking; or miss the deceased 
+and wish for reunion (including having dreams of seeing the person again). Although painful to experience, 
+grief reactions are healthy responses that reflect the significance of the death. Over time, grief reactions tend 
+to include more pleasant thoughts and experiences, such as telling positive stories about a loved one and 
+remembering him/her in comforting ways. 
+National Child Traumatic Stress Network    National Center for PTSD 
+32
+Core Action 2: Safety and Comfort
+Provider Alert
+Children’s and adolescents’ understanding of death varies depending on age and prior experience with 
+death, and is strongly influenced by family, religious, and cultural values. 
+Preschool children may not understand that death is permanent and may believe that if they wish it, the 
+person will come back. They need help to confirm the physical reality of a person’s death—that he/she is 
+no longer breathing, moving, or having thoughts, and feels no discomfort or pain. They may worry about 
+something bad happening to another family member. It may be helpful to explain death to young children 
+through the use of storybooks (see www.NCTSN.org for a list of commonly used books). 
+School-age children understand the physical reality of death, but may picture death as a monster or a 
+skeleton. In longing for the loved one’s return, they may feel an upsetting “ghostlike” presence of the lost 
+person, but not tell anyone. 
+Adolescents generally understand that death is irreversible. Losing a family member or friend can trigger 
+rage and impulsive decisions, such as quitting school, running away, or abusing substances. These 
+issues need prompt attention by the family and/or school.
+When speaking to adults about how to help children, you can say:
+Adult
+It can be helpful to think about times when children will miss their friend, for 
+instance, at recess or in class. Say something like, “It is hard not to have Suzie 
+here and I know a lot of us are missing her right now,” to ease their discomfort, 
+make them feel less alone, and help them to handle these difficult times better.
+When you see a sudden change in the children—looking lost, sad, or even 
+angry—and you suspect that they are missing their friend, let them know 
+that you, too, have times when you feel that way. Say something like, “I’m 
+wondering if you’re thinking about Suzie. Many of us are thinking about her, 
+too. There are many feelings that may come up. What are you feeling? I am 
+happy to talk with you or we can connect you to the school counselor, too.”
+When working with acutely bereaved individuals, remember that:
+
+
+The person should be treated with dignity, respect, and compassion. 
+
+
+Grief reactions will vary from person to person.
+
+
+What they are experiencing is understandable and expectable, given the loss.
+
+
+There is no “correct” course of grieving; how a person grieves is dependent not only on his/her cultural 
+and religious beliefs, but also on his/her developmental level.
+
+
+You can explain that they will most likely continue to experience periods of sadness, loneliness, or anger. 
+
+
+Grief puts older children and adults at risk for abuse of over-the-counter medications, smoking, alcohol, 
+drug usage, and depression and suicidal thoughts. 
+
+
+Students and staff should be made aware of the above risks, the importance of self-care, and the 
+availability of professional help.
+Psychological First Aid for Schools Field Operations Guide
+33
+Core Action 2: Safety and Comfort
+Watch for individuals who may present with irrational blame, fear, or other strong emotions and who may 
+require longer-term attention and more intensive services. Work closely with school administrators to provide 
+outreach actively throughout the school, particularly in large-scale emergencies and/or during memorials or 
+anniversaries, to find those students and staff who may need assistance but may not seek help. Some may 
+feel guilty because they survived while others did not. They may believe that they caused the death in some 
+way. Try to help dispel students’ sense of responsibility and assure them that, in events like this, they are not 
+to blame for what happened. If an individual continues to feel this way, work on getting him/her additional 
+assistance.
+To emphasize the importance of understanding and respecting each other’s course of grief, you may say:
+Adult/Student
+Each person will express his or her grief differently. Some may not cry, 
+while others cry a lot. Some may want to talk, while others don’t. No one 
+should feel bad about this or think there is something wrong with someone 
+who expresses grief in an unfamiliar way. What is most important is to 
+respect the different ways each person feels and help each other in the 
+days and weeks ahead.
+Some individuals will not have words to describe their feelings of grief, and may resist talking with others 
+about how they feel. Sometimes distracting activities, such as drawing, listening to music, or reading, will be 
+more calming than conversation. For those who wish to be alone, provide them with some privacy if it is safe 
+to do so. When a student or adult does want to talk with you about the loved one, listen quietly and do not feel 
+you need to say much. Do not probe. 
+Do Not Say:
+✘ I know how you feel.
+✘ It was probably for the best.
+✘ He is better off now. 
+✘ It was her time to go.
+✘ At least he went quickly.
+✘ Let’s talk about something else.
+✘ You are strong enough to deal with this.
+✘ Be glad he passed quickly.
+✘ It’s good that you are alive.
+✘ You’ll feel better soon.
+✘ You did everything you could.
+✘ You need to grieve.
+✘ You need to relax.
+✘ That which doesn’t kill us makes us stronger.
+✘ It’s good that no one else died.
+✘ It could be worse; you still have a brother/sister/
+mother/father.
+✘ Everything happens for the best according to a 
+higher plan.
+✘ Someday you will have an answer.
+✘ (To a child) You are the man/woman of the house 
+now.
+✘ You should work towards getting over this.
+If the grieving person says any of the above things, you can respectfully acknowledge the feeling or thought, 
+but do not initiate such statements.
+National Child Traumatic Stress Network    National Center for PTSD 
+34
+Core Action 2: Safety and Comfort
+Provide Additional Support to Staff
+Teachers and other staff may have additional adversities that affect them. Teachers feel protective of the 
+students in their classes. Secretaries and receptionists frequently field phone calls from worried parents, 
+the media, and others. Custodians feel responsible for the physical building, and often have the burden of 
+cleaning up the physical evidence of the event. Security guards must direct frightened, concerned people 
+while remaining calm themselves. 
+In the event of an emergency, school staff instinctively put the students first. More frequently than not, staff 
+go on “autopilot,” reacting with swiftness to ensure the students’ safety, whether this means moving them 
+to another location, securing the doors of a classroom to prevent further violence, aiding in escape, and/or 
+protecting students from disturbing visual images. Do not assume that a staff member who appears focused 
+and active is not worried about his/her personal safety and emotional reactivity. The majority of staff will 
+contain their reactions for the sake of their students’ well-being.
+Take time to meet with staff, either in groups or individually, in a private space that is apart from the students. 
+Be certain that there is a box of tissues in the room and, if possible, food and beverages. Update staff about 
+the situation, plans, and safety of the school community. As you work with staff:
+
+
+Promote a sense of safety and provide psychoeducation about emotional reactions.
+
+
+Acknowledge fears and worries about personal safety or health issues.
+
+
+Find out what staff may specifically need and try to provide it.
+
+
+Secure the use of a landline telephone, cell phone, or email, as much is possible, so that they can contact 
+and reassure family members that they are safe.
+
+
+Demonstrate calming techniques, such as slow breathing, thought stopping, or grounding.  
+
+
+Compliment their professionalism, protective instincts, and fast thinking.
+
+
+Recommend limiting “second guessing” or reevaluating their actions “in hindsight.” 
+Putting PFA into Practice 
+After the suicide of a student, an event that many individuals in the school community witnessed, teachers 
+immediately focused on the safety of their students—quickly moving them to an adjoining building, 
+comforting them, and attending to their needs. The adults were also shaken, confused, and upset, but did 
+not show these reactions in front of the students. Once the students were released from school, a private 
+room was designated and the adults were organized into small groups, where providers could determine 
+their physical or emotional concerns, answer their questions, reassure them, and attend to their needs. 
+School staff began to feel calmer and safer as the providers exhibited sensitivity to their needs 
+and attended to their well-being.
+Psychological First Aid for Schools Field Operations Guide
+35
+Core Action 3: 
+Stabilization 
+Illustration by Dr. Bob Seaver
+Goal
+To calm and orient emotionally overwhelmed or disoriented students and school 
+staff
+Students and adults whose reactions are so intense and persistent that they significantly interfere with the 
+ability to function are of the most concern and may require stabilization. Stabilization is used immediately after 
+an event to help calm an individual who appears disoriented or extremely agitated. 
+In many instances, students and staff may be numb rather than overly agitated, and they may appear at first 
+to be reacting normally to the event. Watch carefully to see whether these individuals also demonstrate signs 
+of being connected to (aware of or interactive with) their surroundings or people in the vicinity. If they do not, 
+attempt to stabilize them immediately and seek out a health or mental health professional for help. 
+National Child Traumatic Stress Network    National Center for PTSD 
+36
+Core Action 3: Stabilization
+REMEMBER
+–
+– Most individuals affected by school emergencies will not require stabilization. 
+–
+– Strong emotions, numbing, and anxiety are expected short-term responses to traumatic stress; they 
+do not necessarily signal the need for additional intervention beyond standard support. 
+–
+– If medical or mental health professionals are available, seek them out for help.
+Adults, adolescents, or school-aged children who need stabilization may be: 
+•	 Disoriented: engaging in aimless disorganized behavior 
+•	 Disconnected: numb; startlingly unaffected by the event
+•	 Confused: not able to understand what is happening around them; not making sense 
+•	 Panicked: extremely anxious; unable to settle; their eyes wide and darting 
+•	 Hysterical: sobbing uncontrollably; hyperventilating; rocking 
+•	 Excessively preoccupied: unable to think about anything else
+•	 In denial: refusing to accept that the event took place
+•	 In physical shock: not being able to move; frozen
+•	 Glassy-eyed and staring vacantly; unable to find direction
+•	 Unresponsive to verbal questions or commands
+•	 Exhibiting frantic searching behavior
+•	 Feeling incapacitated by worry
+•	 Engaging in risky activities
+Young children who need stabilization may be: 
+•	 Staring blankly
+•	 Unresponsive
+•	 Displaying behaviors they had outgrown (e.g., urinating in inappropriate places, sucking a thumb)
+•	 Screaming
+•	 Crying or sobbing uncontrollably
+•	 Hyperventilating
+•	 Moving in an agitated way (thrashing, pushing away)
+•	 Hiding (in a corner or under a table)
+•	 Clinging excessively
+Approach Distressed Individuals 
+If the person is too upset, agitated, withdrawn, or disoriented to talk, or if he/she shows extreme anxiety, fear, 
+or panic, consider the following:
+Psychological First Aid for Schools Field Operations Guide
+37
+Core Action 3: Stabilization
+Q: If a student, is there a 
+caregiver available?
+Yes – Make sure this adult appears stable. Focus on empowering 
+the caregiver in his/her role of calming the child. Reassure the 
+caregiver that you are available to assist.
+No – A familiar staff person may serve to help a child regain control.
+Q: Is there a staff member who 
+knows the student or adult 
+well enough to provide 
+emotional support?
+Yes – Have that person take the student or adult to a quiet place. 
+Let the staff member know you are available to help.
+No – You should help the person. Do not forget to remain calm 
+yourself. Follow the steps below.
+Caution: Do not simply try to convince the person to “calm down” 
+or to “feel safe.” Neither tends to be effective.
+Support Distressed Individuals 
+For adults, adolescents, and school-aged children
+
+
+Respect the person’s privacy and give him/her a few minutes before you intervene. Say you will be 
+available if he/she needs you, or that you will check back in a few minutes to see how he/she is doing and 
+whether there is anything you can do to help at that time.
+
+
+Remain calm, quiet, and present, rather than trying to talk to him/her directly, as your questioning may 
+contribute to cognitive and/or emotional overload. 
+
+
+Remain available, while giving him/her a few minutes to calm down.
+
+
+Stand nearby as you talk to other individuals, do some paperwork, or do other tasks, watching to see if 
+the person needs or wishes help.
+
+
+Offer support and help him/her focus on specific manageable feelings, thoughts, and goals.
+
+
+Give information that orients him/her to the surroundings, such as how the setting is organized, what will 
+be happening, and what steps he/she may consider.
+
+
+Clarify any misinformation or misunderstanding about what is taking place, while helping to curtail rumors.
+
+
+Attempt to determine what the student or adult is experiencing, so that you can address the individual’s 
+immediate concern or difficulty.
+For young children
+
+
+Remain calm, quiet, and reassuring. Sit with the child at eye level as you speak in a low tone and in a 
+reassuring manner. 
+
+
+Reassure and calm through physical contact, such as a protective arm across the shoulder, if it appears 
+welcome. Some children may dislike or have a negative association with being touched. If you are 
+unsure, ask them if you may touch them. 
+National Child Traumatic Stress Network    National Center for PTSD 
+38
+Core Action 3: Stabilization
+
+
+Distract the child from the situation by asking questions about his/her favorite story, hobby, sport, or song. 
+Keep the circumstances in mind so that you do not inadvertently trigger greater anxiety by asking about 
+a topic that may be related to existing fears (such as asking, “What is your favorite bedtime story?” when 
+the child is fearful for his/her caregiver’s safety).
+
+
+Give age-appropriate information about what to expect, and always answer questions in an honest, 
+developmentally appropriate way. 
+
+
+Do not overwhelm children with too much information. Under stress, a child can only process so much 
+information, and will likely change the subject or move to a different activity when feeling overwhelmed. 
+Watch for and be respectful of the cues the child gives.
+
+
+Reconnect children with their caregivers or staff who know them as soon as possible.
+Putting PFA into Practice 
+Upon arriving late at school, a high school student learned that his best friend had died the night before. 
+The principal had been informed by the family early that morning, and news of the death had spread 
+through the school. Staff were very concerned about the friend’s reactions once he learned of the death. 
+One teacher, who felt he had established a positive relationship with the teen, offered to be with the 
+principal when he broke the news. The teen immediately became extremely agitated, pacing the office, 
+holding and shaking his head, shouting “No, no, no!” Sensing that the boy was near panic, the principal 
+and the teacher spoke calmly and gently, guiding the boy to sit and take slow breaths. The teacher then 
+stayed in the office with the teen, offering emotional support by his mere physical presence until the teen 
+was ready to ask questions and speak about his friend.
+Observation, physical presence, a soothing voice, and anxiety-reducing techniques (e.g., slow breathing) 
+helped to stabilize the teen.
+Use these talking points to help individuals understand their reactions: 
+For adults, adolescents, and school-aged children
+
+
+You may feel intense emotions coming and going like waves. (You may also feel emotionally knocked 
+down or dragged under, just when you thought you were standing on firm ground.)
+
+
+You may find that shocking experiences trigger strong—and often upsetting—self-protective “alarm” 
+reactions in the body, such as an adrenaline surge, startling easily, or being on-guard.
+
+
+Sometimes you may feel so anxious, upset, and out of control, you wonder if you’re going crazy. Remember 
+that these are expectable and understandable reactions to a very upsetting and frightening event. 
+
+
+Sometimes the best way to recover is to take a few moments to do activities that calm you (take a walk, 
+breathe slowly, listen to music).
+
+
+Calm yourself by keeping in mind the family members and friends who love you and support you.
+
+
+Staying busy or helping others can distract you from your thoughts and feelings.
+
+
+There are people here to help you learn more ways to calm yourself.
+Psychological First Aid for Schools Field Operations Guide
+39
+Core Action 3: Stabilization
+REMEMBER
+Adolescents and young adults may have impulses to do something risky, just to feel better temporarily. 
+They may not see the need to be cautious. Ask them to try talking to an adult they trust before acting 
+impulsively. For example, you might say, “When something bad like this happens, it is really important 
+to talk to adults that you trust. Is there anyone who helps you feel better? Maybe I can help you reach 
+him or her.”
+For young children 
+
+
+After bad things happen, your body may have strong feelings that come and go like waves in the ocean. 
+First you’re feeling sort of okay, but then you feel bad all over again. When you feel really bad, that’s a 
+good time to talk to your mom and/or dad to help you calm down. Here at school, there are teachers or 
+other adults you can talk to.
+
+
+Did you know that lots of people need help at times like this? See all the people here with the vests on 
+and all those guys out front with the yellow jackets? All these people—and many more—are working 
+together to help keep you and the other children safe, and to help people feel better.
+
+
+One trick to help you start to feel a little better is to do something. Just sitting here might be boring or 
+make you feel even worse. Would you like to play with the other kids or would you like to draw? Do you 
+know Mrs. Smith? She’s teaching some kids a breathing game to help them calm their bodies. Calming 
+your body can help calm your mind, and that can help you start to feel better.
+Assist Individuals with Extreme Agitation and Disorientation
+If the person appears extremely agitated, has accelerated speech, seems out of touch with the surroundings, 
+or is crying intensely, it may be helpful to:
+
+
+Position yourself at eye level, so he/she becomes aware of you.
+
+
+Ask the individual to listen to you and look at you.
+
+
+Find out if he/she knows who he/she is, where he/she is, and what is happening.
+
+
+Ask him/her to describe the surroundings and say where both of you are.
+If these actions do not help, introduce a technique called “grounding,” by saying:
+Child/Student
+After a frightening experience, you can be very upset or angry or unable to 
+stop thinking about what happened. I can help you feel less overwhelmed by 
+teaching you about something called “grounding.” Grounding works by having 
+you focus on the things you see and hear around you, instead of all the 
+thoughts you’re having. Would you like to try it?
+National Child Traumatic Stress Network    National Center for PTSD 
+40
+Core Action 3: Stabilization
+If the person agrees, speak in a calm, quiet voice and lead him/her through the steps:
+
+
+Sit in a comfortable position with your legs and arms uncrossed.
+
+
+Breathe in and out slowly three times.
+
+
+Look around you and name five non-distressing, simple objects that you can see. For example, you might 
+say, “I see the floor, I see a shoe, I see a table, I see a chair, I see my friend.”
+
+
+Breathe in and out slowly three times.
+
+
+Next, name five non-distressing sounds you can hear. For example, you might say, “I hear a teacher 
+talking, I hear myself breathing, I hear a door close, I hear kids playing, I hear a cell phone ringing.”
+
+
+Breathe in and out slowly three times.
+
+
+Next, name five non-distressing things you can feel. For example, you might say, “I can feel the pen in my 
+hand, I can feel my toes inside my shoes, I can feel my back pressing against my chair, I can feel my feet 
+on the floor, I can feel my lips pressed together.”
+
+
+Breathe in and out slowly three times.
+If the person selects distressing objects or sounds to name, interrupt him/her and suggest he/she pick items 
+that are not upsetting.
+You might have a younger student name the colors of objects that he/she sees around them. For example, 
+you could say, “Next, name five colors that you can see from where you are sitting. Tell me something you see 
+that is blue, now something that’s yellow, now something green.”
+Stabilize Students in Group Settings
+While working with a group of students, monitor how the students are responding to the discussion. If you 
+see that students are getting distressed, stabilize the situation by conducting a neutral group activity. These 
+activities can be drawing/coloring, a writing exercise, a breathing exercise, making a collage, or working 
+together on a mural. If a student is still having problems calming down, you or another PFA-S provider should 
+work with him/her in private. 
+Putting PFA into Practice 
+After the sudden, violent death of a favorite teacher, the fourth grade class came together to talk about 
+him and the upsetting news. As the level of anxiety increased among the students, the adult stopped the 
+discussion and guided the students in slow breathing, stretching out their arms, and then shaking the 
+tension out of their hands. Once relaxed, the group resumed their discussion.
+Taking a break in the discussion and doing a calming activity can quickly stabilize a situation.
+Psychological First Aid for Schools Field Operations Guide
+41
+Core Action 4: 
+Information Gathering: 
+Needs and Current Concerns
+Illustration by Dr. Bob Seaver
+Goal
+To identify immediate needs and concerns, gather additional information, and tailor 
+Psychological First Aid for Schools interventions to meet these needs
+In most emergencies, you will have limited time to gather information, and you will have to adjust to 
+individuals’ needs and priorities. Therefore, you will need to be flexible in adapting PFA-S interventions. 
+Although a formal assessment is not appropriate, gather enough information so that you can tailor 
+interventions quickly to these needs and concerns. 
+National Child Traumatic Stress Network    National Center for PTSD 
+42
+Core Action 4: Information Gathering: Needs and Current Concerns
+Gather Information Directly with These Questions:
+1.	 How are you doing now? What are your immediate needs and concerns?
+Students and staff will experience the emergency differently. By asking these questions, you will find 
+out what concerns are most pressing. Also, ask if they have any immediate safety issues, medical or 
+psychiatric concerns, or problems attending to basic needs. Highlight that you are willing to discuss 
+whatever they wish—a big problem or even something they think is trivial. Some students and staff may 
+not talk because they feel others are in greater need of your services. Assure them that you and your 
+team have time for everyone. 
+2.  What happened to you during the event? How were you affected?
+You will want to find out how the person was impacted by the event. You might ask:
+
+
+Where were you during the emergency?
+
+
+Did you feel threatened? Did you get hurt/injured?
+
+
+Do you still feel threatened?
+
+
+What problems do you have now? Do you have any continuing or ongoing problems?
+
+
+Did a loved one die or suffer severe injury?
+
+
+Have you lost contact with, or are you separated from, a loved one?
+
+
+Did you (or your family) lose any personal property?
+
+
+Did your pet die or get hurt?
+Provider Alert
+In clarifying emergency-related experiences, avoid asking for in-depth descriptions, as this may provoke 
+additional distress. Follow the individual’s lead in discussing what happened. Do not press him/her to 
+disclose the details of a trauma or loss. If a person is anxious to talk about an experience, respectfully say 
+that you can best help now by getting some basic information so that you can help with his/her current 
+needs, and that you will give him/her referrals to talk with a school counselor or professional about his/her 
+experiences. Remind the person that immediately after an emergency it is difficult to fully protect his/her 
+privacy, and that the situation may not permit you to give him/her enough time to fully assist with his/her 
+experiences.
+Psychological First Aid for Schools Field Operations Guide
+43
+Core Action 4: Information Gathering: Needs and Current Concerns
+3.  How has the event impacted you, your family, and your friends?
+When asking this question, use the names of the individuals that the person has already mentioned. 
+When working with middle or high school students, ask how their classmates and friends are doing. Note 
+whether students are limiting their interactions with others, delaying important developmental activities 
+(birthday, prom, getting a driver’s license), or increasing at-risk behaviors (drinking, using drugs, reckless 
+driving, self-injurious behaviors). Also, explore students’ ability to do schoolwork, their sleep habits, and 
+recent moods.
+4.  When you look ahead, do you have any concerns? Is there anything 
+bothering you about your future?
+These questions allow you to identify any academic concerns, worries about relationships, changes in 
+parental behavior, and developmental issues.
+5.  Is there anything else you would like to share?
+You can use the form Student/Staff Current Needs (Appendix C) to document the information you have 
+gathered. Additionally, use the Psychological First Aid Provider Worksheet (Appendix C) to document the 
+services you have provided. 
+Gather Information Indirectly
+Use other ways to gather information in addition to direct interviewing. For example, encourage the use of 
+the referral procedures in place for teachers and staff so that if they see changes in a student’s behavior 
+they can contact you or another PFA-S provider to follow up. As noted previously, you can work with school 
+administration to find out what happened during the event. The more you know about what occurred, the 
+better you will be able to identify individuals who need to be checked on. 
+The PFA-Team Leader can also monitor daily attendance, and disciplinary and nursing logs to identify 
+students at risk. Remember: some students and staff will ask for help, but most will not. Some may complain 
+of physical symptoms (e.g., headaches, stomachaches, rapid heart beat) and frequently visit the nurse. Be 
+watchful, so you can identify and help those individuals affected by the emergency. 
+Gather Information to Guide Your Intervention Choices
+As PFA-S is a modular and flexible approach, the information you obtain will guide the intervention strategies 
+you choose to use. The table Areas of Concern and PFA Intervention on the following pages indicates the 
+strategies to use based on different pressing needs or concerns reported. Much of the information that will be 
+gathered is from conversation and what the individual reports as current concerns. Do not use the table as a 
+checklist and ask each of these questions. Also keep in mind your role. If an individual brings up concerns you 
+are not trained to assist in, get help from the PFA-S Team Leader or a mental health professional.
+ 
+National Child Traumatic Stress Network    National Center for PTSD 
+44
+Core Action 4: Information Gathering: Needs and Current Concerns
+Areas of Concern and PFA Interventions
+Areas of Concern
+Questions to Ask
+PFA Intervention Strategies
+Nature and Severity of 
+Experiences
+•	 “Where were you during the 
+crisis?”
+•	 “Did you get hurt?”
+•	 “Did you see anyone get hurt?”
+•	 “How afraid were you?”
+•	 Provide information about post-
+crisis reactions and coping
+•	 Arrange medical care for those 
+injured
+•	 Provide a sense of safety and 
+calm
+•	 Offer a follow-up meeting
+Death of a Loved One
+•	 “Did someone close to you get 
+hurt or die as a result of the 
+event? Who got hurt or died?”
+•	 Provide emotional comfort, 
+acute grief assistance, and 
+practical assistance
+•	 Connect with social supports
+•	 For younger children, ensure 
+that a familiar adult is attending 
+to him/her
+•	 Offer a follow-up meeting
+Immediate Safety Concerns 
+and Ongoing Threat
+•	 “Tell me what you understand.”
+•	 “Do you have concerns about 
+your safety or the safety of your 
+family or friends?”
+•	 “Do you have concerns about 
+the safety of the school?”
+•	 Help obtain information about 
+safety and protection
+•	 Provide information obtained 
+from officials about the incident 
+as well as available services
+•	 Report safety concerns to the 
+appropriate authority
+Separations from, or Concern 
+for, the Safety of Loved Ones
+•	 “Are you worried about anyone 
+close to you right now? Do you 
+know where they are?”
+•	 “Is there anyone you care 
+about, like a family member or 
+friend, who is missing?”
+•	 Provide practical assistance to 
+connect people to information 
+resources and registries to help 
+locate and reunite loved ones
+Physical Illness, Mental Health 
+Conditions, and Need for 
+Medications
+•	 “Do you have any medical or 
+mental health condition that 
+needs attention?”
+•	 “Do you need any medications 
+that you don’t have?”
+•	 “Can you get in touch with your 
+doctor or parents?”
+•	 Provide practical assistance 
+to obtain medical and/
+or psychological care and 
+medication
+Losses (Home, School, 
+Neighborhood, Property, Pets, 
+etc.)
+•	 “Was your school / home badly 
+damaged or destroyed?”
+•	 “What did you lose that is 
+important to you?”
+•	 “Did a pet die or get lost?”
+•	 “Was your business or 
+neighborhood badly damaged 
+or destroyed?”
+•	 Provide emotional comfort
+•	 Provide practical assistance 
+to help link the person with 
+available resources
+•	 Provide information about 
+positive coping and social 
+support
+Psychological First Aid for Schools Field Operations Guide
+45
+Core Action 4: Information Gathering: Needs and Current Concerns
+Areas of Concern
+Questions to Ask
+PFA Intervention Strategies
+Extreme Feelings of Guilt and/
+or Shame
+•	 “Do you feel that some part of 
+the incident was your fault?”
+•	 “Do you feel you could have 
+done something differently that 
+would have changed the course 
+of what happened?”
+•	 Provide emotional comfort
+•	 Provide information about 
+coping with these distressing 
+emotions
+Thoughts about Causing Harm 
+to Self or Others
+•	 “Sometimes situations like these 
+can be overwhelming. Have you 
+had any thoughts about harming 
+yourself?”
+•	 “Have you had any thoughts 
+about harming someone else?”
+•	 Get immediate medical or 
+mental health assistance
+•	 Stay with the individual until 
+appropriate personnel arrive 
+and assume management of 
+his/her care
+Availability of Social Support
+•	 “Do you know of family 
+members, friends, or community 
+agencies that can help with 
+the problems you’re currently 
+facing?”
+•	 “Do you feel comfortable 
+speaking to your family or 
+friends when you need help or 
+want to talk? Who can you go to 
+for help?”
+•	 Help the person connect 
+with available resources and 
+services
+•	 Provide information about 
+coping and social support
+•	 Offer a follow-up meeting
+Prior Alcohol or Drug Use
+•	 “Have you been using 
+alcohol, drugs, or prescription 
+medications to stop thinking 
+about the event?”
+•	 “Have you had any problems 
+in the past with alcohol or drug 
+use?”
+•	 Provide information about 
+coping and social support
+•	 Link to appropriate services
+•	 Offer a follow-up meeting
+•	 For those undergoing 
+withdrawal, seek a medical 
+referral
+Prior Exposure to Trauma and 
+Death of Loved Ones
+•	 “Sometimes events like this 
+can remind people of previous 
+trauma and loss. Have you 
+ever been in a similar situation 
+before?” 
+•	 “Has some other bad thing 
+happened to you in the past?”
+•	 “Have you ever had someone 
+close to you die?”
+•	 Provide information about 
+post-crisis and grief reactions, 
+coping, and social support
+•	 Offer a follow-up meeting
+•	 Take note of those students who 
+report prior trauma/loss, as they 
+may have future academic or 
+behavioral problems
+Specific Youth, Adult, and 
+Family Concerns about 
+Developmental Impact
+•	 “Were there any special events 
+coming up that were disrupted 
+by this event?”
+•	 Provide information on coping
+•	 Assist with strategies for 
+practical help
+Psychological First Aid for Schools Field Operations Guide
+47
+Core Action 5: 
+Practical Assistance 
+Illustration by Dr. Bob Seaver
+Goal
+To offer practical help to students and staff to address their immediate needs and 
+concerns
+National Child Traumatic Stress Network    National Center for PTSD 
+48
+Core Action 5: Practical Assistance
+Individuals likely to have more favorable outcomes after emergencies are those who have one or more of the 
+following characteristics:
+
+
+Optimism (a belief that things will turn out as well as can be expected) 
+
+
+Confidence that life is predictable 
+
+
+Belief that they can achieve the goals they set (self-efficacy)
+
+
+Belief that outside sources will act benevolently on one’s behalf (e.g., that the community is willing to 
+help)
+
+
+Positive self-talk or beliefs (e.g., “I have gotten through some tough situations in the past and I can get 
+through this too”)
+
+
+Knowledge that they will have the resources they need (such as support from others, money for essential 
+expenses, the opportunity to receive tutoring services)
+Providing students, staff, and their families with needed resources can empower them, help them have hope, 
+and restore their dignity. Therefore, assisting individuals with current or anticipated problems is a central 
+component of PFA-S. 
+Offer Practical Assistance to School Personnel
+After emergencies, staff members are often asked by students and their families about resources available at 
+the school and in the community to address post-event adversities. Keep staff informed about the resources or 
+services that are currently available and where they can connect families to organizations or individuals who are 
+coordinating such activities. This information should include ways to help address students’ academic needs 
+and connect them with resources to facilitate their learning (identify whether transfer students have an IEP in 
+place, availability of tutoring services, and/or where they can obtain school supply donations). Work with teachers 
+around what homework strategies will help students with attention and concentration problems. Some events may 
+cause students additional stress. For example, athletes who have to relocate to a new school may be concerned 
+about being able join the team at the new school, or that a temporary decline in grades may impact their potential 
+for acceptance at colleges. Work with the appropriate school staff member to address these types of concerns. 
+To facilitate the school’s recovery, school staff can encourage students to organize or participate in various 
+recovery activities, including donation drives, clean-up days, or events that promote wellness or civic 
+responsibility. Teachers can establish class goals and can display the class’s progress as they move forward. 
+Staff can help students’ problem-solve how they can share with others in the school community or how they 
+can lend a helping hand.
+Staff may have their own needs, and they may welcome your assistance. For example, they may have lost 
+their own homes in a disaster and struggle with the rebuilding process themselves. Helping staff problem-
+solve together on how to support their school community and each other can improve their recovery process.
+Throughout any contact, do all you can to help students and staff members identify immediate needs, 
+set priorities, and choose initial steps to address the problems they face. Even under conditions of stress 
+Psychological First Aid for Schools Field Operations Guide
+49
+Core Action 5: Practical Assistance
+and adversity, helping individuals set achievable goals may reverse their immediate feelings of failure and 
+inability to cope, give them repeated successes, and help them reestablish the sense of control necessary for 
+recovery.
+Offer Practical Assistance to Students and Staff
+Students, staff, and family members benefit from clarifying their needs and concerns, developing a plan 
+to address them, and acting on the plan. Their ability to clarify what they want, think through alternatives, 
+select the best option, and follow through develops gradually. For example, many school-age students can 
+participate in problem solving, but they will require the assistance of adults to follow through with their plans. 
+When appropriate, share the plans you have developed with parents/caregivers or involve parents/caregivers 
+in making the plans, so that they can help the child or adolescent complete them. 
+Follow these four steps when offering practical assistance:
+Step 1:  Identify the Most Immediate Needs
+If the student, staff member, or family member has identified several needs or current concerns, focus on them one 
+at a time. For some needs, there will be immediate solutions (e.g., getting school books, phoning a family member 
+to reassure him/her that the student or staff member is okay). Others (locating a lost loved one, obtaining services 
+due to a newly acquired disability/injury, securing insurance for lost property, acquiring childcare for after-school 
+hours) will not be solved quickly, and may be impossible to solve within the school setting. Collaborate with the 
+individual to help him/her select the issues that require immediate help. For example, you might say: 
+Adult
+I understand from what you’re telling me, Mrs. Williams, that your main goal 
+right now is to rebuild your house so that your kids can stay in the same 
+school. Let’s make a plan for what you have to do next.
+Adolescent/ Child
+It sounds as if you are really worried about four different things: (1) what happened 
+to your house, (2) when your dad is coming for you, (3) whether you will be able to 
+return to your classroom, and (4) what will happen next. All of these are important, 
+but let’s decide which is most important right now, and then make a plan.
+Step 2:  Clarify the Need
+Talk with the individual to specify the primary problem. Once you have helped him/her clarify the problem, you 
+will be able to identify the next practical step to address it. You might say:
+Teacher/ School 
+Personnel
+I understand that your first concern is about several students whose parents 
+can’t be contacted. Let’s work on a plan to address that problem.
+Adolescent/ Child
+It sounds as if you are worried about several things. Right now let’s focus on 
+finding out where your sister is.
+National Child Traumatic Stress Network    National Center for PTSD 
+50
+Core Action 5: Practical Assistance
+Teacher/ School 
+Personnel
+I understand that your biggest worry right now is what to tell your students 
+about the situation. Let’s talk about what you might say.
+Adolescent/ Child
+You seem to be very worried about what is going to happen next. Let’s talk 
+about what you can expect for the rest of the day.
+Step 3:  Discuss an Action Plan
+Discuss what can be done to address the individual’s needs or concerns. He/she may have ideas, or 
+you can offer a suggestion. If you know ahead of time what services are available, you can help obtain 
+food, clothing, shelter, tutoring, mental health, or childcare services, financial assistance, help to locate 
+missing family members or friends, and volunteer opportunities for those who want to help in the relief 
+efforts. Give school personnel realistic expectations about resources and support, qualification criteria, and 
+application procedures. The more you understand the community’s and school system’s plan for dealing with 
+emergencies, the more you will be a reliable resource for what can be expected.
+Step 4: Act to Address the Need
+Help the individual to take action. For example, help him/her set an appointment for a needed service, or 
+assist him/her in completing paperwork. Within the school setting, you may be able to address the need 
+yourself, but you may also help staff to decide on the actions to address that need. For example, encourage 
+community agencies to present and have available the paperwork at a parent’s meeting, so that parents have 
+a better understanding of available services and they can sign up for more than one program or service at a 
+time.
+Putting PFA into Practice 
+Over the weekend, a family who had two students enrolled in the school lost everything in a residential 
+fire. The vice principal contacted the mother, who was worried about how she could acquire clothing and 
+school supplies so that her children could return to the school. The vice principal told her that the PTA 
+and the school community wanted to help. The mother gave permission, a fund was set up in the family’s 
+name, and the students organized a bake sale to raise money.
+Assisting others after an emergency can be rewarding for the entire school community.
+Psychological First Aid for Schools Field Operations Guide
+51
+Core Action 6: 
+Connection with Social Supports
+Illustration by Dr. Bob Seaver
+Goal
+To help establish brief or ongoing contacts with primary support persons or other 
+sources of support, including family, friends, teachers, and school and/or community 
+resources 
+Social support is an important component of emotional well-being and recovery following emergencies. 
+Students and staff members who are well connected with others are more likely to engage in supportive 
+activities (both receiving and giving support) that assist with recovery. 
+National Child Traumatic Stress Network    National Center for PTSD 
+52
+Core Action 6: Connection with Social Supports
+Provide Basic Information about Social Supports 
+Social support can come in many forms:
+•	 Emotional support: a listening ear, understanding, love, acceptance
+•	 Social connection: feeling as if you fit in and have things in common with other people; having people 
+with whom you can talk and do activities 
+•	 Feeling needed: feeling that you are important to others, that you are valued, useful, and productive, 
+and that people appreciate you
+•	 Reassurance of self-worth: people who help you feel confident in yourself and your abilities, who 
+believe that you can handle the challenges you face, and who help you remember the effective things 
+you have done in past difficult situations
+•	 Reliable support: having people reassure you that they will be there for you if you need them and that 
+you can rely on them for help
+•	 Advice and information: having people show you how to do something, give you information that 
+you need, or offer good advice, and help you understand that your reactions to the event are common; 
+having people who are good role models, from whom you can learn how to cope with what is happening 
+in positive ways
+•	 Physical assistance: having people to help you do things, such as cleaning up the classroom, helping 
+you with paperwork, or gathering class assignments for you
+•	 Material assistance: having people who can get you access to food, clothing, shelter, medicine, 
+textbooks, school supplies, or money
+Assist students and their families, as well as staff members, to develop and maintain their social connections 
+as soon as possible. Critical to recovery, social connectedness has these benefits:
+
+
+Opportunities for sharing knowledge
+
+
+Opportunities for a range of social support activities, including:
+–
+–
+Practical problem-solving
+–
+–
+Emotional understanding and acceptance 
+–
+–
+Sharing of experiences and concerns
+–
+–
+Normalization of reactions
+–
+–
+Teaching each other about coping
+Enhance Access to Primary Support Persons 
+(Family and Significant Others)
+Most individuals will immediately want to contact those with whom they have a primary relationship (parents, 
+other family members, close friends, teachers, spouses or intimate partners, neighbors, and clergy). Take 
+practical steps to assist students and school staff to reach these individuals (in person, by phone, by e-mail, 
+through Internet databases/social media sites). 
+Psychological First Aid for Schools Field Operations Guide
+53
+Core Action 6: Connection with Social Supports
+They may want to contact other sources of social support, such as coaches, peers, co-workers, or club 
+members (after-school clubs or sports teams). For most students and staff, the school itself functions as a 
+setting of primary support. Reinforcing the connectedness to the school “family” will be helpful. Some students 
+and staff may also be worried about family members in neighboring schools. Provide information about what 
+is known about the nearby schools and clarify any misinformation about the safety of others. 
+Enhance the School Community
+One of the objectives of PFA-S is to stabilize the school community and to foster an environment for learning. 
+To accomplish this goal:
+
+
+Promote a sense of tolerance by helping students and staff members understand that everyone is on their 
+own recovery path. Some will need longer, while others may not have been affected. Acceptance of this 
+difference and giving each other support can foster a healthy recovery environment. 
+
+
+Highlight the importance of mutual aid among the students and staff. Brainstorm ways that groups can 
+work together to address mutual problems.
+
+
+Encourage students to watch out for each other. If they see a change in a peer’s behavior or mood, they 
+should notify a parent, school counselor, or other trusted adult. 
+
+
+Create a plan for integrating new students who may have temporarily or permanently transferred to the 
+school. Attempt to integrate these students into the school culture, and orient them to the school rules/
+procedures as quickly as possible. Avoid singling these students out in a way that alienates them from 
+the rest of the student body. For example, transfer students who have been given increased personal 
+attention and received new backpacks or supplies from staff might be resented by other members of the 
+student body, making it more difficult for new students to find friends or feel included. 
+
+
+If a school structure has been destroyed and students have been assigned to new locations, strategize 
+ways to reconnect old classmates if possible. Work with the school administration or community agencies 
+to create events that will bring together students from the same community (e.g., charity runs, food 
+drives). A website can also be set up so that students can communicate with each other. If siblings are 
+separated, encourage “bring your sibling to school day,” so that they can see the classrooms and the new 
+building. 
+
+
+Facilitate social support activities by encouraging staff and teachers to increase the number of group 
+activities and collaborative assignments. 
+
+
+Alert students and staff to upcoming community events and school-sponsored meetings. Give details 
+about events, and add precautions if you are concerned that some students may not be ready for some 
+events (e.g., memorials).
+
+
+Consider what developmental milestones may have interrupted for students and staff (e.g., graduation, 
+retirement, first dance) and help them find ways to address this disruption. For example, they may have to 
+postpone or relocate the celebration or they may have to adjust their expectations.
+National Child Traumatic Stress Network    National Center for PTSD 
+54
+Core Action 6: Connection with Social Supports
+Some individuals may need assistance in adjusting to changes in their relationships. For example, parents may 
+monitor their children more after an emergency, which may be especially difficult for adolescents to handle. 
+You may have to help students understand that their parents were also affected by the situation and that these 
+changes are typically temporary. Other changes may be due to some individuals’ being more directly impacted 
+by the event, how they are coping (seeking help vs. avoidance), and their involvement in the situation. Individuals 
+who have visible injuries may have difficulty relating to their peers; they may become a reminder to others of what 
+happened and lose important connections. Those who were considered “heroes” may gain immediate attention 
+from the school community, and then struggle when those connections fade. If they were friends with an individual 
+who is being blamed for the incident, they may be faced with alienation or bullying. As these changes occur, 
+you may have to help facilitate communication between peer groups, or help individuals with seeking or giving 
+support. Peer-to-peer programs can also help facilitate a sense of belonging among students. 
+Discuss Support-Seeking and Giving
+If students or staff members are reluctant to seek support, there may be many reasons, including:
+
+
+Not knowing what they need (and perhaps feeling that they should know)
+
+
+Feeling embarrassed or weak because they need help
+
+
+Feeling guilty about receiving help when others are in greater need
+
+
+Not knowing where to turn for help
+
+
+Not knowing how to ask for help
+
+
+Worrying that they will be a burden or depress others
+
+
+Thinking that since they’ve been helped in the past, they shouldn’t ask again
+
+
+Fearing that they will get so upset that they will lose control
+
+
+Doubting that support will be available or helpful
+
+
+Thinking, “No one can understand what I’m going through”
+
+
+Having tried to get help in the past and finding that help was not there (feeling let down or betrayed)
+
+
+Fearing that the people they ask will be angry or make them feel guilty for needing help
+In helping students and staff to appreciate the value of social support and engaging with others, you can also 
+help them to:
+
+
+Think about the type of support that would be most helpful
+
+
+Think about whom they might approach for that type of support
+
+
+Choose the right time and place to approach the person
+
+
+Talk to the support person and explain how he/she can be of help
+
+
+Thank the support person afterwards for his/her time and help
+Psychological First Aid for Schools Field Operations Guide
+55
+Core Action 6: Connection with Social Supports
+Let people know that, following a stressful, frightening event, some people choose not to talk about their 
+experiences, and that spending time (sitting, walking, hanging out, playing a game) with people can allow one 
+to feel close without talking. For example, your message might be: 
+Adult/Caregiver
+When you’re able to leave school, you may not want to talk, but just be with 
+the people you feel close to. At some point, you may find it helpful to talk 
+about what you have been through. You can decide what to talk about and 
+when. You don’t have to talk about everything that occurred, just what you 
+choose to share with the other person.
+Adolescent/Child
+When something really upsetting like this happens, it’s okay not to talk if you 
+don’t want to. Hanging out with people you are close to without saying a word 
+can be a good thing to do. But if you want or need something, be sure to 
+reach out to someone you trust.
+For those who would like to provide support to others, you can help them to: 
+
+
+Discover ways that they can help others (tutor students who missed school, organize fundraisers, 
+disseminate donations, ask a friend if he/she wants to talk)
+
+
+Identify a person or persons to help
+
+
+Find an uninterrupted time and place to talk or to help
+
+
+Show interest, attention, and care
+
+
+Offer to talk or spend time together as often as needed
+Let them know that, instead of discussing the event, it is better to provide practical assistance and help to 
+problem-solve current needs and concerns.
+Model Support
+As a provider, you can model positive supportive responses, such as:
+Reflective comments:
+“From what you’re saying, I can see how you would be . . .”  
+“It sounds as if you’re saying . . .”  
+“It seems that you are . . .”  
+Clarifying comments:
+“Tell me if I’m wrong, but it sounds as if you . . .”  
+“Am I right when I say that you . . .”  
+National Child Traumatic Stress Network    National Center for PTSD 
+56
+Core Action 6: Connection with Social Supports
+Supportive 
+comments:
+“No wonder you feel . . .”  
+“It sounds really hard . . .”  
+“It sounds as if you’re being hard on yourself.”
+“It is such a tough thing to go through something like this.”
+“I’m really sorry this is such a tough time for you.”
+“We can talk more tomorrow if you’d like.”
+Empowering 
+comments and 
+questions:
+“What have you done in the past to help yourself feel better when things got 
+difficult?”
+“What do you think would help you to feel better?”
+“I have an information sheet with some ideas about how to deal with difficult 
+situations. Maybe there’s an idea or two here that might be helpful for you.”
+“People can be very different in what helps them to feel better. When things 
+get difficult for me, it has helped me to . . . Do you think something like that 
+would work for you?”
+If appropriate, distribute the handouts Connecting with Others: Seeking Social Support and Connecting 
+with Others: Giving Social Support provided in Appendix C.
+Putting PFA into Practice 
+Following a school shooting, the track team struggled with how to support one another.
+The team had always been close. Two of its members had been shot and could no longer compete with 
+the team. A PFA provider, along with the coach, met with the entire team to discuss ways they could 
+support each other during this difficult time. The injured students discussed how they wanted to remain 
+part of the team, so the group problem-solved that the students would become managers of the team 
+and have specific roles in the meets. The group agreed to check in again after the first meet to see how 
+everyone was doing.
+Creating open communication and an understanding of each other’s recovery can create problem-
+solving strategies that can foster a group’s recovery.
+ 
+Psychological First Aid for Schools Field Operations Guide
+57
+Core Action 7: 
+Information on Coping
+Illustration by Dr. Bob Seaver
+Goal
+To provide information about stress reactions and coping to reduce distress and 
+promote adaptive functioning
+Emergencies can be disorienting, confusing, and overwhelming, putting students and staff members at risk 
+for feeling incompetent to handle problems that they face. Feeling confident that one can cope with trauma-
+related stress and adversity is beneficial to recovery.
+National Child Traumatic Stress Network    National Center for PTSD 
+58
+Core Action 7: Information on Coping
+Giving students, staff, and their families certain information can help them manage their stress reactions and 
+deal more effectively with problems. Such information includes:
+
+
+What is currently known about the unfolding event
+
+
+What is being done to assist them
+
+
+What, where, and when services are available
+
+
+What post-disaster reactions to expect and how to manage them
+
+
+What they can do to assist with self-care, family care, and adaptive coping
+Provide Basic Information about Stress Reactions
+Briefly discuss the stress reactions that people commonly experience after a crisis. You may: 
+
+
+Highlight that they may be frightened or alarmed by their own response, and may view their reactions in 
+negative ways (e.g., thinking, “There’s something wrong with me” or “I’m weak”). You can reduce their 
+worry about their own responses by explaining that their reactions are understandable and expectable.
+
+
+Avoid pathologizing stress reactions; do not use terms like “symptoms” or “disorder.” 
+
+
+Make sure you note that there is a range of possible reactions from negative to positive, including 
+a greater appreciation of life, family, and friends, or a strengthening of spiritual beliefs and social 
+connections, so as not to give people the suggestion that they will only be negatively affected by events.
+
+
+Indicate that if their stress reactions continue to interfere with their ability to function adequately for more 
+than a month, they should seek psychological services or student support staff to help restore their pre-
+event level of functioning. (Remember that you may have to refer earlier if the individual is having major 
+difficulty with sleep, unable to care for oneself, or shows signs of safety concerns.)
+Provider Alert
+While it may be helpful to describe stress reactions and to note that intense reactions are common but 
+often diminish over time, avoid providing “blanket” reassurance that stress reactions will disappear. This 
+may set up unrealistic expectations about the time it takes to recover.
+Putting PFA into Practice 
+PFA providers were called to a school after the death of a preschool student. Parents were concerned about how 
+to explain death to children who had not previously experienced a death. Providers gave parents and teachers 
+information about young children’s limited understanding of death and the need to explain death in sensitive, but 
+concrete, terms. Providers also gave information about common grief reactions and the need to actively listen to 
+young children’s feelings. Some of the parents were reluctant to talk to their child about death, stating that their 
+child did not need to know and would not understand. However, when several parents utilized the information 
+they were provided and talked with their children, they were surprised and relieved to find their children able to 
+talk about the death, to express sadness for the loss, and to share positive memories of their friend. 
+Providing psychoeducation to parents can help them be more responsive to their children.
+Psychological First Aid for Schools Field Operations Guide
+59
+Core Action 7: Information on Coping
+Common Psychological Reactions to Traumatic 
+Experiences and Losses
+Below is basic information about posttraumatic stress and other reactions that you can discuss with students 
+and staff as issues arise.
+Posttraumatic stress reactions:
+Intrusive Reactions are ways in which the traumatic experience comes back to mind. These reactions 
+include distressing thoughts or mental images of the event (e.g., visualizing what one saw) or dreams about 
+what happened. In children, bad dreams may not be specifically about the trauma. Intrusive reactions also 
+include upsetting emotional or physical reactions to reminders of the experience. Some people may feel 
+and act as if one of their worst experiences is happening all over again. These reactions can interfere with 
+individuals’ attention, concentration, and overall functioning at school.
+Avoidance and Withdrawal Reactions are ways people use to keep away from, or protect against, intrusive 
+reactions. They may try to avoid talking, thinking, and having feelings about the emergency, and avoid 
+reminders of the event, including places and people. They may restrict or numb their emotions to protect 
+themselves against distress. Their feelings of detachment and estrangement from others may lead to social 
+withdrawal. They may lose interest in formerly pleasurable activities. Those experiencing these reactions may 
+miss school more frequently, limit their participation in school activities, or change their peer group.
+Physical Arousal Reactions are bodily responses to danger that occur when the danger is no longer 
+present. People may react by constantly being “on the lookout” for danger, by startling easily or being jumpy, 
+by being irritable or having outbursts of anger, having difficulty falling or staying asleep, and having problems 
+concentrating or paying attention. Those struggling with these reactions can result in problems with school or 
+work functioning, completing chores or homework, peers relationships, and overall health.
+Other kinds of reactions: 
+Grief Reactions will be prevalent among those who survived the event but have suffered losses, such as the 
+death of loved ones, or loss of their home, possessions, pets, school, or community. Loss may lead to feelings 
+of sadness and anger, guilt or regret over the death, missing or longing for the deceased, and dreams of seeing 
+the person again. More information on grief reactions can be found in the section on Safety and Comfort. 
+Traumatic Grief Reactions occur when children and adults have suffered the traumatic death of a loved one. 
+Some survivors may stay focused on the circumstances of the death, including being preoccupied with how the 
+death could have been prevented, what the loved one’s last moments were like, and who was at fault. These 
+reactions may interfere with grieving, making it more difficult for survivors to adjust to the death over time. More 
+information on traumatic grief reactions and how to respond can be found in the section on Safety and Comfort.
+Depression is associated with prolonged grief reactions, and is strongly related to the accumulation of post-
+event adversities. Reactions include persistent depressed or irritable mood, loss of appetite, sleep disturbance, 
+greatly diminished interest or pleasure in life activities, fatigue or loss of energy, feelings of worthlessness or 
+guilt, feelings of hopelessness, and sometimes thoughts about suicide.  
+National Child Traumatic Stress Network    National Center for PTSD 
+60
+Core Action 7: Information on Coping
+Physical Reactions are commonly experienced, even in the absence of any underlying physical injury or 
+illness. These reactions include headaches, dizziness, stomachaches, muscle aches, rapid heart beating, 
+tightness in the chest, hyperventilation, loss of appetite, and bowel problems. 
+Reminders and hardships:
+Trauma Reminders can be sights, sounds, places, smells, specific people, time of day, situations, or even 
+feelings such as being afraid or anxious. Trauma reminders are related to the specific type of event—such as 
+a hurricane, shooting, flood, tornado, or fire—and specific circumcumstances can evoke upsetting thoughts 
+and feelings about what happened. Examples include hearing the sound of wind, rain, helicopters, screaming 
+or shouting, and seeing individuals who were present at the event. Students reacting to such reminders can 
+cause them to be distracted, miss teacher instruction, engage in risky behaviors, and may result in a decline 
+in academic performance.
+Loss Reminders can also be sights, sounds, places, smells, specific people, time of day, situations, or 
+feelings. Examples include seeing a picture of a lost loved one or seeing their belongings, such as their 
+locker or desk. Loss reminders bring to mind the absence of the loved one. Missing the deceased can evoke 
+strong feelings of sadness, anxiety, uncertainty about life without him/her, anger, loneliness, abandonment, or 
+hopelessness. Loss reminders can lead students to miss school or other activities to avoid experiencing these 
+reminders.
+Change Reminders can be people, places, things, activities, or hardships that remind people of how their 
+lives have changed as the result of an emergency. Change reminders can be something as simple as waking 
+up in a different bed in the morning, going to a different school, or being in a refurbished place. Even nice 
+things can remind people of how life has changed and make them miss what they had before.
+Hardships often follow in the wake of disaster and can make it more difficult to recover. Hardships place 
+additional strains on survivors and can contribute to feelings of anxiety, depression, irritability, uncertainty, and 
+mental and physical exhaustion. Hardships can be loss of home or possessions, lack of money, shortages 
+of food or water, separations from friends and family, school closures, medical or physical health problems, 
+the process of obtaining compensation for losses, moving to a new area, and lack of fun activities. For these 
+types of emergencies, the response phase may be longer and trauma/grief specific services will be needed to 
+facilitate the school recovery.
+Psychological First Aid for Schools Field Operations Guide
+61
+Core Action 7: Information on Coping
+Talking with Students about Physical and 
+Emotional Reactions 
+Students may show a wide range of responses in the aftermath of an emergency. Some students will seem to 
+bounce back fairly quickly, while others will take more time to recover. Keep in mind that children of the same 
+age, exposed to the same event, may show very different reactions. Children also vary in their capacity to see 
+connections between events and emotions. Many will benefit from a basic explanation of how trauma-related 
+experiences produce upsetting emotions and physical sensations. Below are suggestions for working with 
+students individually or within groups: 
+Suggestions
+Examples
+Ask students to tell you about their physical 
+sensations, instead of directly asking them to 
+describe their emotions.
+“How do you feel inside?”
+“Do you feel something like butterflies in your 
+stomach or tight all over?”
+Students have a wide range of reactions after crises. If 
+they have problems identifying their reactions, suggest 
+one or two and then let them come up with other ways. 
+pick one, rather than asking open-ended questions.
+“Each one of you may have differently reactions 
+to what happened. There is no right or wrong way. 
+Some students may feel sad, others may feel knots 
+in your stomach. What are other reactions?”
+Draw (or ask the student to draw) an outline of a 
+person, and use this to help the student talk about 
+his/her physical sensations.
+[Point to stomach] “How does it feel here?”
+The following script provides a basic explanation that helps children to talk about their reactions: 
+Sample Script:
+Helping 
+Students Talk 
+about Emotions
+When something really bad happens, kids may feel funny, strange, or 
+uncomfortable. Maybe your heart is beating really fast, or your hands feel sweaty, 
+or your stomach hurts, or your legs or arms feel weak or shaky. Other times kids 
+just feel funny inside their heads, almost as if they cannot press stop on the DVR 
+and they keep watching the bad thing happen over and over again in their mind. 
+Sometimes your body keeps having these feelings for a while even after the bad 
+thing is over and you are safe. These feelings are your body’s way of telling you 
+again how bad the event was. 
+There is a wide range of reactions that you may be feeling. Do you have any of 
+these feelings now, or other ones that I didn’t talk about? Can you tell me where 
+you feel them, and what they feel like? 
+Sometimes these strange or uncomfortable feelings come up when kids see, hear, 
+or smell things that remind them of the bad thing that happened, like strong winds, 
+glass breaking, or the smell of smoke. It can be very scary for kids to have these 
+feelings in their bodies, especially if they don’t know why they are happening or 
+what to do about them. If you like, I can tell you some ways to help you cope better. 
+Would you like that? 
+National Child Traumatic Stress Network    National Center for PTSD 
+62
+Core Action 7: Information on Copingx
+Providing Basic Information on Coping 
+Discuss a variety of ways to cope effectively with post-event reactions and adversity. Adaptive coping 
+actions help to reduce anxiety, lessen other distressing reactions, improve the situation, or help people get 
+through bad times. Maladaptive coping actions tend to be ineffective in addressing problems.
+Adaptive Coping Actions
+Maladaptive Coping Actions
+✔ Talking to someone (friend, teacher, support 
+group, counselor)
+✘ Watching too much TV or playing computer 
+games too long
+✔ Getting needed information
+✘ Withdrawing from activities
+✔ Getting adequate rest, nutrition, exercise
+✘ Withdrawing from family or friends
+✔ Engaging in positive, distracting activities (sports, 
+hobbies, reading)
+✘ Working too many hours or overly participating in 
+activities to avoid reminders or feelings
+✔ Trying your best to maintain a normal schedule 
+✘ Getting violently angry
+✔ Telling yourself that it is natural to be upset for 
+some period of time; using calming self-talk
+✘ Blaming yourself or others excessively
+✔ Taking breaks; using relaxation methods
+✘ Overeating or not eating enough
+✔ Keeping a journal
+✘ Using alcohol or drugs to cope
+✔ Focusing on something practical that you can do 
+right now to manage the situation better
+✘ Doing risky or dangerous things
+✔ Using coping methods that have been successful 
+in the past
+✘ Not taking care of yourself (too little sleep, poor 
+diet, no exercise)
+The aim of discussing positive and negative forms of coping is to:
+
+
+Help students and staff consider different coping options 
+
+
+Identify and acknowledge their personal coping strengths
+
+
+Guide students and staff to examine the negative consequences of maladaptive coping actions
+
+
+Encourage students to make conscious, goal-oriented choices 
+
+
+Enhance a sense of personal control over their coping choices
+Activity for Students
+To help students identify positive and negative forms of coping, write down on slips of paper methods 
+that students are currently using to cope. Then talk with them about adaptive and maladaptive coping 
+strategies. Have the students sort the pieces of paper into two piles, one for each category, and then 
+discuss ways they can increase their adaptive coping strategies. For younger children, play a memory 
+game in which each coping strategy is written on two pieces of paper. Place the blank side of each paper 
+face up, and have the children find matching pairs. Once a child finds a pair, discuss whether this is a 
+good or bad strategy to help him/her feel better.
+Psychological First Aid for Schools Field Operations Guide
+63
+Core Action 7: Information on Coping
+Relaxation Exercises 
+Breathing exercises help reduce feelings of arousal and physical tension and, if practiced regularly, can 
+improve sleep, eating, and functioning. You can teach simple breathing exercises quickly, particularly when 
+people are calm and can pay attention. Give out the handout Tips for Relaxation (Appendix C) to reinforce 
+the use and practice of these techniques. To teach a breathing exercise, you might say:
+School Staff/ 
+Adolescents
+1.	 Sit in a comfortable position with your arms and legs uncrossed.
+2.	 Inhale slowly through your nose or mouth (one-thousand one, one-
+thousand two, one-thousand three), and fill your lungs. 
+3.	 Silently and gently say to yourself, “I’m filling my body with calm.” 
+4.	 Exhale slowly through your mouth (one-thousand one, one-thousand two, 
+one-thousand three), and comfortably empty your lungs.
+5.	 Silently and gently say to yourself, “I’m letting the tension drain away.” 
+6.	 Repeat five times slowly.
+Children
+Let’s practice a different way of breathing that can help calm our bodies. 
+1.	 I want each of you to think about your favorite color. Okay, we are going 
+to breathe in through our noses or mouths. When we breathe in, we are 
+going to think about our favorite color and the beautiful things that you 
+connect with that color.
+2.	 Next, we will breathe out slowly through our mouths. When we breathe 
+out, we are going to breathe out the gray and the uncomfortable feelings 
+that have been building up. Let out the air, slowly and quietly.
+3.	 Let’s try it together. Breathe in really slowly and inhale thinking about your 
+favorite color and the beautiful things connected to this color while I count 
+to three. One…two…three. Good job. Now, while I count again, slowly 
+let the air out while thinking about the color gray and all the unpleasant 
+feelings. One…two…three. Great job. Let’s try it again together. 
+[Remember to praise children for their efforts.]
+If you find that a person has previously learned a relaxation technique, support him/her in doing what he/she 
+has already learned rather than teaching new skills.
+Relaxation Exercises in Groups
+When teaching these skills in a group setting, have students seat themselves throughout the room in 
+order to have more personal space. Some students may feel more comfortable closing their eyes, while 
+others will not. Position yourself in the room in such a way that you can supervise the students during the 
+exercise without having to walk too close to them. Students may find it disconcerting to have someone 
+pass close by during relaxation. 
+National Child Traumatic Stress Network    National Center for PTSD 
+64
+Core Action 7: Information on Coping
+Helping with Difficulties 
+Concentrating and Learning
+In the aftermath of emergencies, students and staff members may have difficulties concentrating on school 
+tasks, focusing on work, and learning. They may have trouble thinking about anything other than what 
+happened, how life is different, and what may be ahead. This may make it difficult for them to focus on what 
+is required in school, and add to their distress. Find out if this is happening, and help students and staff 
+members to find ways to focus and get back on track with schoolwork/teaching and other necessary tasks.
+Things to Ask:
+
+
+What are you worried about? How much are you thinking about it? For example, have you had trouble 
+sleeping? Are you thinking a lot about what happened?
+
+
+What would be a different way to give yourself time to think about what happened and what it means to 
+you, so that it would be less likely to interfere with what you have to do right now?
+
+
+What are some ways that you can stay focused and achieve what you need to do now?
+Other Things to Consider:
+
+
+Help the person focus on needed activities by encouraging him/her to set aside times for talking with 
+others or for thinking about his/her concerns. Make sure the person doesn’t plan to think about his/her 
+concerns at bedtime. 
+
+
+Encourage the person to allow more time to complete school-related tasks, including taking more breaks 
+and asking for help from others.
+
+
+Work with teachers and parents to modify classroom and homework structures for students with particular 
+difficulty concentrating, by reducing distractions, breaking schoolwork into more achievable chunks, and 
+giving more frequent assistance and feedback on the student’s performance. 
+
+
+Remind the person that he/she will feel better in the long run by staying on track with what is in front of 
+him/her now.
+
+
+Provide referral for additional services for individuals who have continued sleep difficulties, are overly 
+preoccupied with thinking about what happened, and worried about the future.
+Psychological First Aid for Schools Field Operations Guide
+65
+Core Action 7: Information on Coping
+Helping with Feelings of Anger and Frustration
+Discussion Points about Anger
+
+
+Many students and staff members will struggle with feelings of anger after crises. They may see the event 
+as unfair to themselves, their families, and the community.
+
+
+Having an anger problem before the event can make it more challenging to deal with anger afterwards.
+
+
+It is common to feel angry, but angry actions or unsafe behaviors can cause problems with family or friends.
+
+
+Holding on to the anger can hurt survivors or leave them feeling “stuck” in that bad moment. Coping with 
+and letting go of anger, or directing energy toward positive activities, can help them move forward.
+
+
+Controlling anger is a great way to stay in charge. The calmer 
+you are, the more you have the upper hand. If a student and/
+or staff member cannot control his/her anger, then others will 
+have to step in to control them. Teens, in particular, seldom 
+like the feeling of someone else taking control.
+Ways to Help Individuals Cope with Anger
+1.	 Establish a connection. Take time to get to know the person 
+and to gain some trust. Those who act out in angry ways may 
+actually feel quite scared and vulnerable. 
+2.	 Discuss the warning signs of anger. Suggest that they can become more aware of early warning signs 
+of anger by watching for clenched fists, biting one’s lip, yelling, and/or throwing objects. 
+3.	 Develop a plan. Brainstorm several ways to cope with anger. Help 
+students and staff plan responses to fit different challenging situations. 
+4.	 Model and role-play. Demonstrate using the plan in a challenging 
+situation. First, you should play (model) the role of the angry individual 
+applying his/her plan. Then, have the person practice the anger coping 
+plan. Do this a couple of times, until he/she feels comfortable with 
+the plan. If you are working in a group, pick a member who appears 
+comfortable speaking in front of others to try it.
+5.	 Reinforce. Praise the individual’s efforts when you see them using 
+their anger coping plan. Sometimes students find it helpful to share 
+their plan with others (parents, for example) who can support the 
+student’s coping. 
+6.	 Monitor and evaluate. If possible, try out the plan an agreed-upon 
+number of times; later, review how well it worked or did not work. 
+Change the plan as needed. 
+Ways to Cope
+•	 Take a “time out”
+•	 Talk to a friend
+•	 Exercise
+•	 Write about it
+•	 Draw a picture
+•	 Read a book
+•	 Listen to music
+•	 Pray/meditate
+•	 Look at it from 
+another’s viewpoint
+•	 Problem-solve
+Provider Alert
+Working with angry individuals can 
+make professionals feel uncomfortable. 
+Remain calm yourself. Keep safety in 
+mind, but remind yourself that anger 
+in these situations is common. If an 
+individual appears out of control or 
+becomes violent, contact security.
+National Child Traumatic Stress Network    National Center for PTSD 
+66
+Core Action 7: Information on Coping
+Helping with Guilt, Shame, and 
+Other Difficult Emotions 
+Students and staff may think about what caused the event, how they reacted, and what the future holds. They 
+may blame themselves or others, adding to their distress. Listen for such negative beliefs, and help them to 
+look at the situation in ways that are less upsetting. 
+Things to Ask:
+
+
+What would be a different way to look at the situation that would be less upsetting and more helpful? 
+What’s another way of thinking about this?
+
+
+What are some other ways people might look at the situation. Would this be more or less upsetting to 
+you? What would you say to a good friend who was talking like this? Can you say the same things to 
+yourself?
+Developmental Alert
+When working with younger children, use an activity. They often find it easier to focus on play objects 
+such as dolls or puppets or to draw pictures related to their feelings. 
+Remember that the purpose of the activity is to help children find a different way to view their situation, 
+not merely to act out their feelings without resolution. Actively participate by labeling feelings, clarifying 
+the thoughts of the characters, or joining in the play to model a different way of thinking about or 
+responding to the situation. 
+Other Things to Consider:
+
+
+Explain that even if he/she feels at fault, that does not make it true. If he/she is receptive, offer some 
+alternative ways of looking at the situation. 
+
+
+Help to clarify misunderstandings, rumors, and distortions that exacerbate distress, unwarranted guilt, or 
+shame. 
+
+
+For children and adolescents who have difficulty labeling these thoughts, you can write out their negative 
+thoughts on a piece of paper (“I did something wrong,” “I caused it to happen,” “I was misbehaving”). 
+For a child still struggling with this, you may suggest some negative thoughts that other children have 
+had and invite him/her to identify the ones that fit best. You can then discuss each one, clarify any 
+misunderstandings, discuss helpful counter-thoughts, and write those down as well. 
+
+
+Remind the person that he/she is not at fault, even if he/she has not expressed this concern directly.
+
+
+In the event that the person is in some way responsible and is dealing with the resulting guilt, he/
+she should be referred for ongoing counseling. These situations fall outside the scope of short-term 
+interventions such as PFA-S.
+Psychological First Aid for Schools Field Operations Guide
+67
+Core Action 7: Information on Coping
+Risk-Taking Behaviors
+Following Traumatic Events 
+Things to Keep in Mind: 
+
+
+Some students and young adults increase their risk-taking behaviors 
+and may have more accidents.
+
+
+Their actions may be more unpredictable or impulsive.
+
+
+Trauma increases adults’ and students’ risk for substance abuse, and 
+substance abuse increases the risk of trauma.
+
+
+They may react to traumatic reminders (sounds, sights, smells 
+associated with the emergency) with risky behaviors.
+
+
+Students and young adults exposed to traumatic events may adopt a 
+“live for today” attitude and be less focused on the future.
+How to Help:
+
+
+Be alert for possible dangerous behaviors among students.
+
+
+Follow up with younger students who show an increase in visits to the nurse due to accidents and injuries.
+
+
+Discuss the potential for an increase in risky behavior with students and staff, how it relates to the emergency 
+and reminders, and the temporary need to be more careful for a few months after a crisis or disaster.
+
+
+Discuss these risks with parents. Encourage them to temporarily increase supervision and set clear, firm 
+limits on risky behaviors. 
+
+
+Involve students in meaningful activities that have a tangible outcome, such as a project to help others in 
+their community.
+
+
+Encourage students and staff who have previously received treatment for substance abuse to seek 
+additional support in the weeks and months following an emergency.
+Risky Behaviors
+•	 Reckless driving
+•	 Cutting
+•	 Unsafe sexual 
+behaviors
+•	 Drug and alcohol use
+•	 Delinquent behavior
+•	 Running away
+•	 Dangerous behaviors 
+on the playground
+National Child Traumatic Stress Network    National Center for PTSD 
+68
+Core Action 7: Information on Coping
+Monitoring Warning Signs
+Students may show a variety of behaviors that indicate that they are having difficulty coping with the emergency. 
+Be on the lookout for students exhibiting the following behaviors, as they may benefit from extra support:
+
+
+Increased worries or fears about self and others 
+
+
+Unusually whiny, irritable, moody
+
+
+Behavior changes (activity level, anger, withdrawal)
+
+
+Somatic complaints (stomachaches, headaches)
+
+
+Recreating the event (acting it out in play)
+
+
+Overreacting to sudden sounds or movements
+
+
+Dwelling about death or dying
+
+
+Difficulty following directions or accepting authority
+
+
+Nightmares or disturbing memories during the day
+
+
+Chronic decrease in school performance and completing assignments
+
+
+ Increased problems with peers or interacting with others
+
+
+Hyperarousal (problems sleeping, easily startled)
+
+
+Avoidance behaviors (resists experiencing things that remind him/her of the event)
+
+
+Appearing numb emotionally
+Preschool
+Elementary School
+•	 New fears (the dark, monsters, going to the 
+bathroom alone)
+•	 Separation anxiety/clinginess
+•	 Regression in development (loss of toilet training 
+skills, baby talk)
+•	 Aggression (biting, hitting)
+•	 Excessive clinginess to adults
+•	 More whining 
+•	 More babyish behaviors
+•	 Signs of risky behavior, such as increased 
+accidents on the playground
+Middle School
+High School
+•	 Difficulties with authority (challenging or defying)
+•	 Troubled thoughts, such as recurring revenge 
+fantasies
+•	 Increase in impulsive, risky behaviors 
+•	 Drug or alcohol use/abuse
+•	 Repetitive thoughts or comments about death 
+(writing, art, or Internet searches about morbid 
+topics)
+Psychological First Aid for Schools Field Operations Guide
+69
+Core Action 7: Information on Coping
+Helping with Sleep Problems 
+Sleep difficulties are common following an emergency. People tend to stay on alert, which makes it hard to 
+fall asleep and causes frequent awakenings during the night. Worrying about adversities and life changes 
+can also make it hard to fall asleep. Disturbances in sleep can have a major effect on mood, concentration, 
+decision-making, and risk for injury. Ask students and staff members about any trouble sleeping, sleep 
+routines, and sleep-related habits. 
+Problem-Solve Ways to Improve Sleep:
+
+
+Go to sleep at the same time and get up at the same time each day.
+
+
+Reduce alcohol consumption, as alcohol disrupts sleep.
+
+
+Eliminate consumption of caffeinated beverages in the afternoon or evening.
+
+
+Increase regular exercise, but not too close to bedtime.
+
+
+Relax before bedtime by doing something calming, such as listening to 
+soothing music, meditating or praying, or reading.
+
+
+Limit daytime naps to 15 minutes and do not nap after 4 PM.
+Other Things to Consider:
+
+
+Encourage them to talk about and get support from others as worrying and reacting to reminders can 
+disrupt sleep.
+
+
+Enourage the individual to use calming strategies, such as breathing exercises, meditation, stretching, 
+yoga, prayer, or listening to quiet music.
+
+
+Talk to the student’s parents about how they can provide their child with additional support at night. For 
+example, they could soothe their child, give more time to the nighttime routine, or practice the relaxation 
+exercises at bedtime.
+Caution: Teens and 
+Adults
+Avoid driving, 
+physical labor, or 
+activity—such as 
+home repairs or 
+cleaning up a park—
+if you are sleeping 
+poorly. Be extra 
+careful when you are 
+feeling tired.
+Psychological First Aid for Schools Field Operations Guide
+71
+Core Action 8: 
+Linkage with 
+Collaborative Services
+Illustration by Dr. Bob Seaver
+Goal
+To link students and staff with available services they need now or will need in the 
+future
+National Child Traumatic Stress Network    National Center for PTSD 
+72
+Core Action 8: Linkage with Collaborative Services
+Provide Direct Link to Additional Needed Services
+Identify which of the student’s, staff member’s, or family members’ needs and current concerns require 
+additional information or services, and discuss with that person how to connect with these additional 
+resources. Be aware of school policy about making referrals to outside resources and of existing links 
+the school may have with outside agencies. Make sure you adhere to confidentiality laws and parental 
+notification policies. Do what is necessary to ensure effective linkage with those services (walk the family 
+over to a service agency representative, set up a meeting with a community representative who may provide 
+appropriate referrals, or talk with the school representative who typically makes referrals for students). 
+Examples of situations requiring a referral include:
+•	 An acute medical problem that needs immediate attention
+•	 An acute mental health problem that needs immediate attention
+•	 Worsening of a preexisting medical, emotional, or behavioral problem
+•	 Threat of harm to self or others
+•	 Concerns related to alcohol or drug use
+•	 Cases involving domestic, child, or elder abuse (be aware of reporting laws)
+•	 When pastoral counseling is desired
+•	 Ongoing difficulties with coping (four weeks or more after the event)
+•	 Significant developmental concerns about children or adolescents
+•	 When they ask for a referral
+In addition, encourage families and staff to reconnect to agencies that provided services and support to them 
+before the event, including: 
+
+
+Mental health services
+
+
+Medical services
+
+
+Social support services
+
+
+Child welfare services
+
+
+Drug and alcohol support groups
+
+
+Churches, synagogues, temples, mosques or other spiritual groups
+When making a referral:
+
+
+Give the person a brief summary of your understanding of his/her needs and concerns.
+
+
+Check for the accuracy of your summary.
+
+
+Describe the option of referral, including how this may help and what will take place if the individual goes 
+for further help.
+
+
+Ask about the person’s reaction to the suggested referral, and ask for permission to share information 
+with the new provider.
+
+
+Give written referral information or, if possible, make an appointment then and there.
+Psychological First Aid for Schools Field Operations Guide
+73
+Core Action 8: Linkage with Collaborative Services
+
+
+Ask for permission and/or a written release from the parent to share information with the professional 
+receiving the referral.
+
+
+Make sure that both a parent and the school are aware of your concern that a referral for continuing care 
+may be warranted.
+
+
+Recommend that any follow-up services for the family include (at least) a brief evaluation of child and 
+adolescent adjustment.
+Promote Continuity in Helping Relationships
+As the recovery process continues, follow up with teachers and other staff members to monitor any significant 
+emotional or behavioral reactions students may be displaying. Ensure that all staff members know the procedures 
+for how and when to make a referral. Make sure a member of the counseling staff or a nurse is monitoring 
+students’ attendance, nursing visits, academic performance, and disciplinary records to identify students who may 
+be at-risk. It is always good practice to inform the individual who made the referral that you followed up with the 
+referral. Finally, a member of the team should contact agencies with whom your school has preexisting mutual 
+aid agreements and identify others to contact for additional services your school community requires for recovery. 
+Meet with these agencies regularly to ensure that they are able to support the school community’s needs.
+A secondary—but important—concern for many students and staff members is keeping in contact with responders 
+who have been helpful. If you are an outside responder, you will not be able to have continuing contact with 
+students and staff, as you will leave once the crisis is resolved. Fortunately, school personnel provide continuity 
+and help protect against feelings of abandonment or rejection. You can create a sense of continuing care if you:
+
+
+Emphasize the role of school personnel in providing immediate and ongoing support for students, and 
+personally “hand off” students with whom you have worked to school personnel who will remain onsite.
+
+
+Provide names and contact information for the local public health and public mental health service providers 
+in the community. There may also be other local providers or agencies that have volunteered to provide 
+post-disaster follow-up services for the community. (Be wary of referring to unknown volunteer providers.) 
+Minimize the need for a student or staff member to retell his/her story, by sharing information with those who 
+will have ongoing contact. Orient the new provider to what he/she needs to know about the person and, if 
+possible, provide an introduction.
+Putting PFA into Practice 
+A student was badly injured in a bus accident and missed several days of school. When he returned, 
+he had difficulty concentrating and completing his school work. His counselor recommended that he 
+see a mental health professional, but he refused. The counselor addressed the student’s concerns 
+and he agreed that it would make him feel better if the counselor talked to the psychologist first. The 
+student’s parents agreed with this. When the counselor made contact, the parents agreed to have the first 
+appointment at the school, with the counselor present, to help with the transition.
+Spend extra time understanding an individual’s concerns about a referral, and problem-solve 
+ways to ease the transition.
