@@ -32,6 +32,18 @@ if "chat" not in st.session_state:
 chat = st.session_state.chat
 
 # ---------------------------
+# Save Overall Risk Score to a Text File
+# ---------------------------
+def save_risk_score_to_file(risk_level: str, filename: str = "risk_score.txt"):
+    try:
+        # Open the file in write mode (or create it if it doesn't exist)
+        with open(filename, 'w') as file:
+            file.write(risk_level)
+            st.success(f"Risk score saved to {filename}")
+    except Exception as e:
+        st.error(f"Error saving the risk score to file: {e}")
+
+# ---------------------------
 # Display chat history
 # ---------------------------
 for msg in chat.get_messages():
@@ -132,7 +144,10 @@ if (chat.current_test is not None and
                     chat.add_bot_message(result_message)
                     with st.chat_message("assistant"):
                         st.markdown(result_message)
-                        
+                    
+                    # Save the overall risk score to a text file
+                    save_risk_score_to_file(overall_risk)
+
             else:
                 # Next question
                 st.session_state.current_question = result
